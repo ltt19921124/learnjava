@@ -1,0 +1,5 @@
+package DuoTai;
+
+class Dog extends Animal{
+
+}

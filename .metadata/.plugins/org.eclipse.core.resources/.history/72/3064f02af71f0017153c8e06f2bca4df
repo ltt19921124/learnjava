@@ -1,0 +1,15 @@
+package aa;
+
+public class Demo2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int x = 3;
+		
+		System.out.println("x=" + x);
+	}
+	public static void show(int x){
+		x = 4;
+	}
+
+}

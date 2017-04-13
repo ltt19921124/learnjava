@@ -1,0 +1,5 @@
+package DuoTai;
+
+class Animal {
+	abstract void eat();
+}
