@@ -3,11 +3,10 @@ package DuoTai;
 /*
  *多态时：
  * 1，成员变量
- * 		左边 左边
  *
  * 
  * 2，成员函数
- * 		左边 右边
+ * 
  * 
  * 
  * 3，静态函数
@@ -18,7 +17,7 @@ package DuoTai;
 class Fu{
 	
 	int num = 3;
-	static void show(){
+	void show(){
 		System.out.println("fu show");
 	}
 }
@@ -26,7 +25,7 @@ class Fu{
 class Zi extends Fu{
 	
 	int num = 4;
-	static void show(){
+	void show(){
 		System.out.println("zi show");
 	}
 }
