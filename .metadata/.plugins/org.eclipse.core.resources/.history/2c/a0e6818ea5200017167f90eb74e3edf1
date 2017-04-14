@@ -8,12 +8,11 @@ package yichang;
  * 问题很多，描述的类也很多
  * 将其共性进行抽取，形成了异常体系
  * 
- * 最终问题(不正常情况)就分成了两大类
- * Throwable
- * 	   |---1，不可处理的 。Error
+ * 最终问题就分成了两大类
  * 
- * 	   |---2，可处理的。 Exception
+ * 1，不可处理的
  * 
+ * 2，
  * 
  * */
 public class ExceptionDemo {

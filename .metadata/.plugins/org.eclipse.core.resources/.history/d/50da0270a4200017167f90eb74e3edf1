@@ -1,21 +1,6 @@
 package yichang;
 
-/*
- * 
- * 用异常类对问题进行描述
- * 不同的问题用不同的类进行具体的描述，角标越界，空指针异常
- * 异常体系：
- * 问题很多，描述的类也很多
- * 将其共性进行抽取，形成了异常体系
- * 
- * 最终问题(不正常情况)就分成了两大类
- * Throwable
- * 	   |---1，不可处理的 。Error
- * 
- * 	   |---2，可处理的。 Exception
- * 
- * 
- * */
+
 public class ExceptionDemo {
 	public static void main(String[] args){
 		
