@@ -1,0 +1,14 @@
+package yichang;
+
+public class ExceptionDemo2 {
+	public static void main(String[] args){
+		int[] arr = new int[3];
+		
+		method(arr,2);
+	}
+	public static void method(int[] arr,int index) {
+		System.out.println(arr[index]);
+	}
+	
+	
+}

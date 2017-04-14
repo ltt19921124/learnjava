@@ -10,10 +10,16 @@ package yichang;
  * 
  * 最终问题(不正常情况)就分成了两大类
  * Throwable
- * 	   |---1，不可处理的 。Error
+ * 	   |---1，不可处理的 。Error:严重性问题，一般不针对性处理，直接修改代码，不应该试图捕获
  * 
- * 	   |---2，可处理的。 Exception
+ * 	   |---2，可处理的。 Exception:
  * 
+ * 具备可抛性，Throwable的所有子类都具备可抛性,Error还是Exception都是问题，就应该抛出
+ * 进行处理，
+ * 怎么体现可抛性，通过两个关键字来体现
+ * 1，Throws
+ *		 
+ * 2,Throw
  * 
  * */
 public class ExceptionDemo {
