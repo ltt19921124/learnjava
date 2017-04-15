@@ -1,0 +1,21 @@
+package duoxiancheng;
+
+/*
+ * 进程：进程就是一个应用程序在处理机上的一次执行过程，进程是一
+ * 个具有独立功能的程序关于某个数据集合的一次运行活动。正在运行中的程序，
+ * 
+ * 线程：进程中一个负责程序执行的控制单元(执行路径)
+ * 一个进程最少有一个线程，开启多个线程是为了同时执行多部分代码
+ * 
+ * 多线程弊端：线程太多会导致效率的降低
+ * 
+ * */
+
+public class ThreadDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

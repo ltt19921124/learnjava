@@ -745,3 +745,151 @@
 2017-04-13 23:53:33,483 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.ui.DeviceUIPlugin-SHUTDOWN
 2017-04-13 23:53:33,483 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.stop.StopServicePlugin-SHUTDOWN
 2017-04-13 23:53:33,483 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.DevicePlugin-SHUTDOWN
+2017-04-14 07:43:27,587 [Worker-0] DEBUG class java.lang.Class - Starting Andmore Common Plugin...
+2017-04-14 07:43:27,587 [Worker-0] DEBUG class java.lang.Class - Andmore Common Plugin started.
+2017-04-14 07:43:27,588 [Worker-0] DEBUG class java.lang.Class - Starting Andmore Plugin...
+2017-04-14 07:43:27,590 [Worker-0] DEBUG class java.lang.Class - Andmore Plugin started.
+2017-04-14 07:43:27,621 [Worker-0] DEBUG class java.lang.Class - Starting Andmore Emulator Plugin...
+2017-04-14 07:43:27,667 [Worker-0] DEBUG class java.lang.Class - Andmore Emulator Plugin started.
+2017-04-14 07:43:27,694 [Worker-0] DEBUG class java.lang.Class - Starting Andmore Handset Plugin...
+2017-04-14 07:43:27,694 [Worker-0] DEBUG class java.lang.Class - Andmore Handset Plugin started.
+2017-04-14 07:43:27,699 [Worker-0] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin...
+2017-04-14 07:43:27,700 [Worker-0] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin started.
+2017-04-14 07:43:27,710 [Worker-0] DEBUG class java.lang.Class - Starting Andmore Device Services Plugin...
+2017-04-14 07:43:27,710 [Worker-0] DEBUG class java.lang.Class - Andmore Device Services Plugin started.
+2017-04-14 07:43:27,755 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: Pixel_C_API_25 Status: OFF
+2017-04-14 07:43:27,757 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: Pixel_API_O Status: OFF
+2017-04-14 07:43:27,757 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: New_Device_2_API_25 Status: OFF
+2017-04-14 07:43:27,757 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: New_Device_API_25 Status: OFF
+2017-04-14 07:43:27,758 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: Nexus_5X_API_25_2 Status: OFF
+2017-04-14 07:43:27,759 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: Pixel_XL_API_25 Status: OFF
+2017-04-14 07:43:27,759 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: Nexus_6P_API_24 Status: OFF
+2017-04-14 07:43:27,759 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: New_Device_1_API_24 Status: OFF
+2017-04-14 07:43:27,763 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: Pixel_C_API_25 Status: org.eclipse.andmore.android.emulator.status.notavailable
+2017-04-14 07:43:27,763 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: Pixel_API_O Status: org.eclipse.andmore.android.emulator.status.notavailable
+2017-04-14 07:43:27,767 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: New_Device_2_API_25 Status: org.eclipse.andmore.android.emulator.status.notavailable
+2017-04-14 07:43:27,767 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: New_Device_API_25 Status: org.eclipse.andmore.android.emulator.status.notavailable
+2017-04-14 07:43:27,767 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: Nexus_5X_API_25_2 Status: org.eclipse.andmore.android.emulator.status.notavailable
+2017-04-14 07:43:27,767 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: Pixel_XL_API_25 Status: org.eclipse.andmore.android.emulator.status.notavailable
+2017-04-14 07:43:27,767 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: Nexus_6P_API_24 Status: org.eclipse.andmore.android.emulator.status.notavailable
+2017-04-14 07:43:27,767 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: New_Device_1_API_24 Status: org.eclipse.andmore.android.emulator.status.notavailable
+2017-04-14 07:43:29,727 [Worker-0] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 07:43:29,728 [Worker-0] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 07:43:29,728 [Worker-0] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 07:43:29,728 [Worker-0] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 07:43:29,728 [Worker-0] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 07:43:29,729 [Worker-0] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 07:43:29,729 [Worker-0] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 07:43:29,729 [Worker-0] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 07:43:29,729 [Worker-0] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 07:43:29,729 [Worker-0] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 07:43:29,729 [Worker-0] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 07:43:29,729 [Worker-0] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 07:43:29,729 [Worker-0] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 07:43:29,729 [Worker-0] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 07:43:29,729 [Worker-0] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 07:43:29,730 [Worker-0] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 07:43:29,730 [Worker-0] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 07:43:29,730 [Worker-0] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 07:43:29,730 [Worker-0] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 07:43:29,730 [Worker-0] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 07:43:29,730 [Worker-0] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 07:43:29,730 [Worker-0] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 07:43:29,730 [Worker-0] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 07:43:29,730 [Worker-0] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 07:43:29,730 [Worker-0] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 07:43:29,731 [Worker-0] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 07:43:29,731 [Worker-0] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 07:43:29,731 [Worker-0] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 07:43:29,731 [Worker-0] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 07:43:29,731 [Worker-0] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 07:43:29,732 [Worker-0] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offline;name=Offline]
+2017-04-14 07:43:29,732 [Worker-0] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.handset.status.handsetonline;name=Online]
+2017-04-14 07:43:29,732 [Worker-0] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2017-04-14 07:43:29,732 [Worker-0] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.notavailable;name=Not available]
+2017-04-14 07:43:29,732 [Worker-0] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2017-04-14 07:43:29,732 [Worker-0] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.connected;name=Connected]
+2017-04-14 07:43:29,732 [Worker-0] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.disconnected;name=Disconnected]
+2017-04-14 07:43:29,732 [Worker-0] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.online;name=Online]
+2017-04-14 07:43:29,733 [Worker-0] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2017-04-14 07:43:29,733 [Worker-0] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offlineNoData;name=Offline (no user data)]
+2017-04-14 21:03:29,243 [Worker-1] DEBUG class java.lang.Class - Starting Andmore Common Plugin...
+2017-04-14 21:03:29,254 [Worker-1] DEBUG class java.lang.Class - Andmore Common Plugin started.
+2017-04-14 21:03:29,254 [Worker-1] DEBUG class java.lang.Class - Starting Andmore Plugin...
+2017-04-14 21:03:29,256 [Worker-1] DEBUG class java.lang.Class - Andmore Plugin started.
+2017-04-14 21:03:29,278 [Worker-1] DEBUG class java.lang.Class - Starting Andmore Emulator Plugin...
+2017-04-14 21:03:29,312 [Worker-1] DEBUG class java.lang.Class - Andmore Emulator Plugin started.
+2017-04-14 21:03:29,343 [Worker-1] DEBUG class java.lang.Class - Starting Andmore Handset Plugin...
+2017-04-14 21:03:29,343 [Worker-1] DEBUG class java.lang.Class - Andmore Handset Plugin started.
+2017-04-14 21:03:29,347 [Worker-1] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin...
+2017-04-14 21:03:29,348 [Worker-1] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin started.
+2017-04-14 21:03:29,357 [Worker-1] DEBUG class java.lang.Class - Starting Andmore Device Services Plugin...
+2017-04-14 21:03:29,357 [Worker-1] DEBUG class java.lang.Class - Andmore Device Services Plugin started.
+2017-04-14 21:03:29,390 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: Pixel_C_API_25 Status: OFF
+2017-04-14 21:03:29,395 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: Pixel_API_O Status: OFF
+2017-04-14 21:03:29,395 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: New_Device_2_API_25 Status: OFF
+2017-04-14 21:03:29,395 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: New_Device_API_25 Status: OFF
+2017-04-14 21:03:29,396 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: Nexus_5X_API_25_2 Status: OFF
+2017-04-14 21:03:29,396 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: Pixel_XL_API_25 Status: OFF
+2017-04-14 21:03:29,397 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: Nexus_6P_API_24 Status: OFF
+2017-04-14 21:03:29,397 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: New_Device_1_API_24 Status: OFF
+2017-04-14 21:03:29,415 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: Pixel_C_API_25 Status: org.eclipse.andmore.android.emulator.status.notavailable
+2017-04-14 21:03:29,416 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: Pixel_API_O Status: org.eclipse.andmore.android.emulator.status.notavailable
+2017-04-14 21:03:29,416 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: New_Device_2_API_25 Status: org.eclipse.andmore.android.emulator.status.notavailable
+2017-04-14 21:03:29,416 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: New_Device_API_25 Status: org.eclipse.andmore.android.emulator.status.notavailable
+2017-04-14 21:03:29,416 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: Nexus_5X_API_25_2 Status: org.eclipse.andmore.android.emulator.status.notavailable
+2017-04-14 21:03:29,416 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: Pixel_XL_API_25 Status: org.eclipse.andmore.android.emulator.status.notavailable
+2017-04-14 21:03:29,416 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: Nexus_6P_API_24 Status: org.eclipse.andmore.android.emulator.status.notavailable
+2017-04-14 21:03:29,416 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: New_Device_1_API_24 Status: org.eclipse.andmore.android.emulator.status.notavailable
+2017-04-14 21:03:31,068 [Worker-1] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 21:03:31,068 [Worker-1] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 21:03:31,068 [Worker-1] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 21:03:31,068 [Worker-1] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 21:03:31,068 [Worker-1] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 21:03:31,068 [Worker-1] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 21:03:31,068 [Worker-1] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 21:03:31,069 [Worker-1] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 21:03:31,069 [Worker-1] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 21:03:31,069 [Worker-1] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 21:03:31,069 [Worker-1] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 21:03:31,069 [Worker-1] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 21:03:31,069 [Worker-1] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 21:03:31,069 [Worker-1] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 21:03:31,069 [Worker-1] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 21:03:31,069 [Worker-1] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 21:03:31,069 [Worker-1] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 21:03:31,070 [Worker-1] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 21:03:31,070 [Worker-1] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 21:03:31,070 [Worker-1] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 21:03:31,070 [Worker-1] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 21:03:31,070 [Worker-1] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 21:03:31,070 [Worker-1] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 21:03:31,070 [Worker-1] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 21:03:31,070 [Worker-1] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 21:03:31,071 [Worker-1] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 21:03:31,071 [Worker-1] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 21:03:31,071 [Worker-1] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 21:03:31,071 [Worker-1] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 21:03:31,071 [Worker-1] ERROR Studio for Android - 无法实例化处理程序(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2017-04-14 21:03:31,071 [Worker-1] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offline;name=Offline]
+2017-04-14 21:03:31,071 [Worker-1] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.handset.status.handsetonline;name=Online]
+2017-04-14 21:03:31,071 [Worker-1] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2017-04-14 21:03:31,071 [Worker-1] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.notavailable;name=Not available]
+2017-04-14 21:03:31,071 [Worker-1] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2017-04-14 21:03:31,071 [Worker-1] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.connected;name=Connected]
+2017-04-14 21:03:31,071 [Worker-1] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.disconnected;name=Disconnected]
+2017-04-14 21:03:31,071 [Worker-1] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.online;name=Online]
+2017-04-14 21:03:31,071 [Worker-1] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2017-04-14 21:03:31,071 [Worker-1] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offlineNoData;name=Offline (no user data)]
+2017-04-14 21:30:30,613 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Core Plugin...
+2017-04-14 21:30:30,681 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://69.fwk1030384622/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:/C:/Users/Tian Lu/.p2/pool/plugins/org.eclipse.andmore.android.common_0.5.0.201605181018.jar
+2017-04-14 21:30:30,681 [main] DEBUG Studio for Android - JDBC Driver Path:G:\eclipse0130\eclipse\configuration\org.eclipse.osgi\69\0\.cp\res\androidjdbc.jar
+2017-04-14 21:30:30,681 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://69.fwk1030384622/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:/C:/Users/Tian Lu/.p2/pool/plugins/org.eclipse.andmore.android.common_0.5.0.201605181018.jar
+2017-04-14 21:30:30,681 [main] DEBUG Studio for Android - JDBC Driver Path:G:\eclipse0130\eclipse\configuration\org.eclipse.osgi\69\0\.cp\res\androidjdbc.jar
+2017-04-14 21:30:30,688 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Core Plugin started.
+2017-04-14 21:30:30,688 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Devices Support Plugin...
+2017-04-14 21:30:30,691 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Devices Support Plugin started...
+2017-04-14 21:30:43,491 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.start.StartServicePlugin-SHUTDOWN
+2017-04-14 21:30:43,501 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.ui.DeviceUIPlugin-SHUTDOWN
+2017-04-14 21:30:43,501 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.stop.StopServicePlugin-SHUTDOWN
+2017-04-14 21:30:43,501 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.DevicePlugin-SHUTDOWN

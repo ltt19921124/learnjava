@@ -1,0 +1,15 @@
+package duoxiancheng;
+
+/*
+ * 进程：进程就是一个应用程序在处理机上的一次执行过程，正在运行中的程序，
+ * 
+ * */
+
+public class ThreadDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
