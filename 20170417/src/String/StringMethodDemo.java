@@ -23,10 +23,42 @@ public class StringMethodDemo {
 		 *  2.5
 		 *  2.6将字符串两端的空格去除，
 		 *  2.7连接字符串
-		 		
+		 *3，判断
+		 *	3.1
+		 *  3.2
+		 *    
+		 *
 		 */
 	
-		stringMethodDemo_2();
+		stringMethodDemo_4();
+		
+	}
+
+	private static void stringMethodDemo_4() {
+		// TODO Auto-generated method stub
+		
+		System.out.println("a".compareTo("A"));//32
+		System.out.println("a".compareTo("C"));
+		System.out.println("abc".compareTo("aqz"));
+		
+		
+	}
+
+	private static void stringMethodDemo_3() {
+		// TODO Auto-generated method stub
+		
+		String s = "aBc";
+//		System.out.println(s.equals("ABC"));//falsr
+//		System.out.println(s.equalsIgnoreCase("ABC"));//true(忽略大小写)
+		
+//		System.out.println(s.contains("Bc"));//true
+//		System.out.println(s.startsWith("a"));//true
+		
+		String str = "ArrayDemo.java";
+		
+		System.out.println(str.startsWith("array"));//false
+		System.out.println(str.endsWith(".java"));
+		System.out.println(str.contains("Demo"));
 		
 	}
 
@@ -60,9 +92,11 @@ public class StringMethodDemo {
 //		System.out.println("java".replace('k', 'o'));//java返回原来的字符串
 		
 //		System.out.println("  -   r  abc    -   ".trim());//去除两端空格
-		System.out.println("abc".concat("kk"));//abckk
-		System.out.println("abc" + "kk");//abckk
-		
+//		System.out.println("abc".concat("kk"));//abckk
+//		System.out.println("abc" + "kk");//abckk
+		System.out.println(4+1);//5
+		System.out.println(String.valueOf(4) + 1);//41(字符串)
+		System.out.println("" + 4 + 1);//41
 		
 	}
 
