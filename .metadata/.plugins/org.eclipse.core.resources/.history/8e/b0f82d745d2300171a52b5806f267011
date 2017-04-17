@@ -1,0 +1,22 @@
+package String;
+
+public class StringMethodDemo {
+	
+	public static void main(String[] args){
+		
+		/*
+		 * 
+		 * 
+		 * 
+		 * */
+	
+		stringMethodDemo_1();
+		
+	}
+
+	private static void stringMethodDemo_1() {
+		
+		
+	}
+	
+}

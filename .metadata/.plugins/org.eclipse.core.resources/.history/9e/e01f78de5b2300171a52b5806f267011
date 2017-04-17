@@ -1,0 +1,18 @@
+package String;
+
+public class StringConstrucDemo {
+	
+	public static void main(String[] args) {
+		
+		stringConstrucorDeno();
+		
+	}
+
+	private static void stringConstrucorDeno() {
+		
+		String s = new String();//等效于String s = "";注意：不等效于:String s = null;
+		
+		
+	}
+	
+}
