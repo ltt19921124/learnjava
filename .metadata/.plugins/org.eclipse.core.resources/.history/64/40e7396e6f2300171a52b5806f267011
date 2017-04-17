@@ -1,0 +1,48 @@
+package String;
+
+public class StringMethodDemo {
+	
+	public static void main(String[] args){
+		
+		/*
+		 * 字符串功能进行分类
+		 * "abcd"
+		 * 1,获取
+		 * 
+		 * 
+		 * 1.4获取字符串中的一部分字符串，也叫子串
+		 * 	String (int int);
+		 * 
+		 * 
+		 * 2,转换
+		 *  2.1。
+		 */
+	
+		stringMethodDemo_1();
+		
+	}
+
+	private static void stringMethodDemo_2() {
+		
+		
+		
+	}
+
+	private static void stringMethodDemo_1() {
+		
+		String s = "abcdea";
+		System.out.println("length:" + s.length());//length:6
+		System.out.println("char:" + s.charAt(2));//c
+		System.out.println("index:" + s.indexOf('a'));//0
+		System.out.println("index:" + s.indexOf('k'));//-1
+		System.out.println(s.indexOf(s));
+		System.out.println("lastIndex:" + s.lastIndexOf('a'));//4
+		
+		System.out.println("subString:" + s.substring(2,4));
+	}
+	
+}
+
+
+
+
