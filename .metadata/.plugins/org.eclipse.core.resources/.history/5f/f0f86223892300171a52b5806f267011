@@ -1,0 +1,19 @@
+package String;
+
+
+/*
+ * 练习：
+ * 1，给定一个字符串数组，按照字典顺序排序
+ *   {"nba","abc","cba","zz","qq","haha"}
+ *    思路：
+ *    
+ * 
+ * 
+ * 
+ * */
+
+public class StringTest {
+	public static void main(String[] args) {
+		
+	}
+}

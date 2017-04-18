@@ -1,0 +1,19 @@
+package String;
+
+
+/*
+ * 获取两个字符串的最大相同子串：
+ *  看短的那个字符串是否在长的里面，若存在
+ *  
+ * 
+ * 
+ * */
+
+
+public class StringTest_3 {
+	
+	public static void main(String[] args) {
+		
+	}
+	
+}

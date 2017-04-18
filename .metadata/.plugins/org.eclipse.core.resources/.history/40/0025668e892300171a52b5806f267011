@@ -1,0 +1,20 @@
+package String;
+
+
+/*
+ * 练习：
+ * 1，给定一个字符串数组，按照字典顺序排序
+ *   {"nba","abc","cba","zz","qq","haha"}
+ *    思路：
+ *    1,对数组排序，用可以用选择，冒泡
+ *    2，for循环嵌套比较以及换位
+ * 	  3，以前是整数，现在是字符串对象，怎么操作？
+ * 
+ * 
+ * */
+
+public class StringTest {
+	public static void main(String[] args) {
+		
+	}
+}

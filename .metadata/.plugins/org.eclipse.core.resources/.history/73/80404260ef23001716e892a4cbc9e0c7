@@ -1,0 +1,17 @@
+package String;
+
+/*
+ * 
+ * 2,一个子串在字符串出现的次数
+ * 思路：
+ * 1，确定子串是否存在，用indexOf
+ * 2，如果找到了，那么记录出现的位置
+ * 
+ * */
+public class StringTest2 {
+	
+	public static void main(String[] args) {
+		
+		
+	}
+}
