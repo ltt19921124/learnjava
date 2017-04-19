@@ -1,0 +1,17 @@
+package aa;
+
+
+class Car{
+	int num;
+	String color;
+	
+}
+
+class CarDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

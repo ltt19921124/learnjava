@@ -1,0 +1,23 @@
+package String;
+
+
+/*
+ * 模拟trim()方法，去除字符串两端空白
+ * 思路：
+ * 1，定义两个变量
+ * 
+ * */
+public class StringTest_4 {
+	
+	public static void main(String[] args) {
+		
+		String s = "    ab   c   ";
+		
+		System.out.println("-" + s + "-");//-    ab   c   -
+		
+		
+		
+	}
+	
+	
+}

@@ -1,0 +1,15 @@
+package duoxiancheng;
+
+/*
+ * 卖票示例：四个窗口
+ * 并发，
+ * 
+ * 
+ * */
+public class TicketDemo {
+	
+	public static void main(String[] args) {
+		
+	}
+	
+}

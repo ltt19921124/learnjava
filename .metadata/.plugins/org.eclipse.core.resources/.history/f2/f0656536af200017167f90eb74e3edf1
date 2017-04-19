@@ -1,0 +1,30 @@
+package yichang;
+
+
+class Demo {
+	public int method(int[] arr,int index) {
+		
+//		System.out.println(arr[index]);
+//		System.out.println("haha");
+		if (index >= arr.length) {
+			new ArrayIndexOutOfBoundsException(index);
+		}
+		return arr[index];
+	}
+}
+
+public class ExceptionDemo2 {
+	public static void main(String[] args){
+		int[] arr = new int[3];
+		
+		Demo d = new Demo();
+		int num = d.method(arr, 3);
+//		d.method(arr, 3);
+		System.out.println("num=" + num);
+		System.out.println("over");
+		
+	}
+	
+	
+	
+}

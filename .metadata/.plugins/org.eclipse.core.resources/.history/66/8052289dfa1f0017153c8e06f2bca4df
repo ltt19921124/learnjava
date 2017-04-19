@@ -1,0 +1,25 @@
+package Constructor;
+
+class Person{
+	private String name;
+	private int age;
+	//定义构造函数
+	
+	Person(){//空参数的构造函数
+		System.out.println("person run");
+	}
+	
+	public void peak(){
+		System.out.println(name + ":" + age);
+	}
+}
+
+public class ConsDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Person p = new Person();//打印出 person run，调用了构造函数
+		
+	}
+
+}

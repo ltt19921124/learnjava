@@ -1,0 +1,40 @@
+package aa;
+
+
+class Car{
+	int num = 4;
+	String color;
+	
+	void run(){
+//		int num = 10;
+		System.out.println(num + "..." + color);
+	}
+}
+
+
+class CarDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+//		Car c = new Car();//c是一个类类型的引用变量
+//		c.num = 4;
+//		c.color = "red";
+//		c.run();
+		Car c1 = new Car();
+		Car c2 = new Car();
+//		show(c2);
+		/*
+		 *匿名对象 
+		 */
+		new Car();//匿名对象，就是定义对象的简写格式
+		
+	
+	}
+	//汽车改装厂
+	public static void show(Car c){
+		c.num = 3;
+		c.color = "black";
+		System.out.println(c.num + "..." + c.color);
+	}
+
+}

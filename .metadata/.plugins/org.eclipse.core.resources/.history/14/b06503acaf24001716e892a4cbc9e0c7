@@ -1,0 +1,16 @@
+package String;
+
+public class StringBuilderDemo {
+
+	public static void main(String[] args) {
+		/*
+		 * 
+		 * jdk 1.5出现的和stringBuffer一样的对象
+		 * 
+		 * StringBuffer:线程安全
+		 * Stringbuilder:线程不安全
+		 * 
+		 * */
+	}
+
+}

@@ -1,0 +1,10 @@
+package DuoTai;
+
+public class ±ÏÀÑÒ¯ {
+	void ½²¿Î(){
+		System.out.println("¹ÜÀí");
+	}
+	void µöÓã(){
+		System.out.println("µöÓã");
+	}
+}

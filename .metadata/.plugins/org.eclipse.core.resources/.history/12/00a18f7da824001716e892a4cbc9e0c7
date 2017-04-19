@@ -1,0 +1,17 @@
+package StringBuffer;
+
+public class StringBufferDemo {
+
+	public static void main(String[] args) {
+		
+		/*
+		 * StringBuffer:就是字符串缓冲区
+		 * 
+		 * 特点：1，长度是可变
+		 * 	   2，
+		 * 
+		 * 
+		 * */
+	}
+
+}

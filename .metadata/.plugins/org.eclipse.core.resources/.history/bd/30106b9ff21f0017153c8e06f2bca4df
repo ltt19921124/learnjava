@@ -1,0 +1,22 @@
+package aa;
+
+
+class Car{
+	int num;
+	String color;
+	
+	void run(){
+		System.out.println(num + "..." + color);
+	}
+}
+
+
+class CarDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Car c = new Car();
+		
+	}
+
+}
