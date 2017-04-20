@@ -24,7 +24,7 @@ public class CollectionDemo {
 		c1.add("abc4");
 		
 		//给c2添加元素
-		c2.add("abc2");
+		c2.add("abc5");
 		c2.add("abc6");
 		c2.add("abc7");
 		
@@ -36,8 +36,18 @@ public class CollectionDemo {
 //		System.out.println("c1=" + c1);
 		
 		//演示removeAll
-		boolean b = c1.removeAll(c2);
-		System.out.println("removeAll:" + b);
+		//removeAll:将两个集合中的元素从调用方法的那个集合中删除
+//		boolean b = c1.removeAll(c2);
+//		System.out.println("removeAll:" + b);//removeAll:true
+//		System.out.println("c1:" + c1);//c1:[abc1, abc3, abc4]
+		
+		//containsAll
+//		boolean b = c1.containsAll(c2);
+//		System.out.println("containsAll:" + b);//false
+		
+		//retainAll
+		boolean b = c1.retainAll(c2);//取交集
+		System.out.println(b);//true
 		System.out.println("c1:" + c1);
 		
 		

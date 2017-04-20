@@ -1,0 +1,22 @@
+package ListDemo;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public final class ListDemo_2 {
+
+	public static void main(String[] args) {
+		
+		List list = new ArrayList();
+		show(list);
+	}
+
+	private static void show(List list) {
+		
+		list.add("abc1");
+		list.add("abc1");
+		list.add("abc1");
+		list.add("abc1");
+	}
+
+}
