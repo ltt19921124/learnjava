@@ -9,6 +9,14 @@ public class WrapperDemo {
 		 * 
 		 * 讲基本数据类型包装成类
 		 * 
+		 * 基本数据-->字符串
+		 * 		1，基本数据  + ""
+		 * 		2,用String类中的静态方法valueOf()
+		 * 
+		 * 字符串-->基本类型
+		 * 	  	
+		 * 	character没有parse方法
+		 * 
 		 * 
 		 * */
 		int num = 9;
@@ -22,7 +30,17 @@ public class WrapperDemo {
 //		System.out.println(x);
 		System.out.println(Integer.parseInt("123") + 1);//124
 		
+//		if(Boolean.parseBoolean("true")){
+//			
+//		}
+//		Integer a = 4;
+//		a = a + 6;
+//		System.out.println(a);
 		
 	}
 
 }
+
+
+
+
