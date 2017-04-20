@@ -32,8 +32,8 @@ public class CollectionDemo {
 		System.out.println("c2=" + c2);
 		
 		//演示addAll
-//		c1.addAll(c2);//将c2中的元素添加到c1中
-//		System.out.println("c1=" + c1);
+		c1.addAll(c2);//将c2中的元素添加到c1中
+		System.out.println("c1=" + c1);
 		
 		//演示removeAll
 		boolean b = c1.removeAll(c2);
