@@ -26,20 +26,8 @@ public class LinkeLlistDemo {
 //			System.out.println(it.next());//À≥–Ú «4321
 //		}
 		
-//		while(!link.isEmpty()) {
-//			System.out.println(link.removeFirst());
-//		}
 		
-		while(!link.isEmpty()){
-			System.out.println(link.removeLast());
-		}
-		
-		System.out.println(link);
+	
 	}
 
 }
-
-
-
-
-
