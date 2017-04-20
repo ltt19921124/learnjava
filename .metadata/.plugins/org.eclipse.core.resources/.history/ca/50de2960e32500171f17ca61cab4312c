@@ -9,12 +9,12 @@ public final class ListDemo_2 {
 	public static void main(String[] args) {
 		
 		List list = new ArrayList();
-//		show(list);
+		show(list);
 		
 		list.add("abc1");
 		list.add("abc2");
 		list.add("abc3");
-//		System.out.println(list.get(2));
+		
 //		Iterator it = list.iterator();
 //		while(it.hasNext()) {
 //			

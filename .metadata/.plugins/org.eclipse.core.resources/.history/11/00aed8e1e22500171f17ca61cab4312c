@@ -14,20 +14,20 @@ public final class ListDemo_2 {
 		list.add("abc1");
 		list.add("abc2");
 		list.add("abc3");
-//		System.out.println(list.get(2));
-//		Iterator it = list.iterator();
-//		while(it.hasNext()) {
-//			
-//			Object obj = it.next();
-//			if(obj.equals("abc2")) {
-//				list.add("abc9");
-//			} else{
-//				System.out.println("next:" + obj);
-//			}
-//			
-//			System.out.println(list);
-//			
-//		}		
+		
+		Iterator it = list.iterator();
+		while(it.hasNext()) {
+			
+			Object obj = it.next();
+			if(obj.equals("abc2")) {
+				list.add("abc9");
+			} else{
+				System.out.println("next:" + obj);
+			}
+			
+			System.out.println(list);
+			
+		}		
 		
 	}
 
@@ -38,10 +38,10 @@ public final class ListDemo_2 {
 		list.add("abc3");
 		list.add("abc4");
 		
-//		Iterator it = list.iterator();
-//		while(it.hasNext()) {
-//			System.out.println("next:" + it.next());
-//		}
+		Iterator it = list.iterator();
+		while(it.hasNext()) {
+			System.out.println("next:" + it.next());
+		}
 		
 		//list特有的取出元素方式
 		
@@ -49,7 +49,7 @@ public final class ListDemo_2 {
 			System.out.println("get:" + list.get(x));
 		}
 		
-//		System.out.println("lsit:" + list.get(3));
+		
 		
 	}
 
