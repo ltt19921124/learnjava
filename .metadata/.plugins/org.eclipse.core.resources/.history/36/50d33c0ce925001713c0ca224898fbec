@@ -1,0 +1,13 @@
+package LinkedList;
+
+import java.util.LinkedList;
+
+public class LinkeLlistDemo {
+
+	public static void main(String[] args) {
+		
+		LinkedList link = new LinkedList();
+		
+	}
+
+}

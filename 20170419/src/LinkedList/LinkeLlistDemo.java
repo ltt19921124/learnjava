@@ -1,0 +1,27 @@
+package LinkedList;
+
+import java.util.Iterator;
+import java.util.LinkedList;
+
+public class LinkeLlistDemo {
+
+	public static void main(String[] args) {
+		
+		LinkedList link = new LinkedList();
+		
+		link.addFirst("abc1");//Õ∑Œª÷√
+		link.addFirst("abc2");
+		link.addFirst("abc3");
+		link.addFirst("abc4");
+		
+		System.out.println(link);//link.addFirst("abc1");
+		System.out.println(link.getFirst());//abc4
+		System.out.println(link.getFirst());//abc4
+//		Iterator it = link.iterator();
+//		while(it.hasNext()) {
+//			System.out.println(it.next());//À≥–Ú «4321
+//		}
+	
+	}
+
+}
