@@ -1,0 +1,15 @@
+package Set;
+
+public class SetDemo {
+
+	public static void main(String[] args) {
+		/*
+		 * 
+		 * set
+		 * 	--|--HashSet:内部结构是哈希表，不同步
+		 *  --|--HashMap:
+		 * 
+		 * */
+	}
+
+}
