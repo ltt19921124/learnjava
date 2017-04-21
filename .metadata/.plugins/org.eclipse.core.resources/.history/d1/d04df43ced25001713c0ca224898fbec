@@ -16,9 +16,7 @@ class DuiLie {
 	public Object myGet(){
 		return link.removeFirst();
 	}
-	
 }
-
 
 public class LinklistTest {
 

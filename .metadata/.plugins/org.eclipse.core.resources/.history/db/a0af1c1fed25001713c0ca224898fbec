@@ -1,25 +1,5 @@
 package LinkedList;
 
-import java.util.LinkedList;
-
-class DuiLie {
-	private LinkedList link;
-	
-	DuiLie(){
-		link = new LinkedList();
-	}
-	
-	public void myAdd(Object obj){
-		link.addLast(obj);
-	}
-	
-	public Object myGet(){
-		return link.removeFirst();
-	}
-	
-}
-
-
 public class LinklistTest {
 
 	public static void main(String[] args) {
@@ -35,9 +15,6 @@ public class LinklistTest {
 		 * 
 		 * 
 		 * */
-		
-		
-		
 	}
 
 }

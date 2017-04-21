@@ -9,16 +9,10 @@ class DuiLie {
 		link = new LinkedList();
 	}
 	
-	public void myAdd(Object obj){
+	public void myAdd(){
 		link.addLast(obj);
 	}
-	
-	public Object myGet(){
-		return link.removeFirst();
-	}
-	
 }
-
 
 public class LinklistTest {
 
