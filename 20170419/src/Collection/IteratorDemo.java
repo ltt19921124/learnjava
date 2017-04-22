@@ -2,13 +2,12 @@ package Collection;
 
 import java.util.ArrayList;
 import java.util.Collection;
-import java.util.Iterator;
 
 public class IteratorDemo {
 	
 
 	public static void main(String[] args) {
-		Collection coll = new ArrayList();
+		Collection<String> coll = new ArrayList<String>();
 		
 		coll.add("abc1");
 		coll.add("abc2");

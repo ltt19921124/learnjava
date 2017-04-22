@@ -1,0 +1,9 @@
+package generic;
+
+public class DuoTaiDemo {
+
+	public static void main(String[] args) {
+
+	}
+
+}

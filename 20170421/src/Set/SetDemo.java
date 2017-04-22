@@ -15,9 +15,10 @@ public class SetDemo {
 		 * */
 		HashSet hs = new HashSet();
 		
-		hs.add("haha");//无序的
+		hs.add("haha");//无序的，元素不重复
 		hs.add("xixi");
 		hs.add("heihei");
+		hs.add("hehe");
 		hs.add("hehe");
 		
 		Iterator it = hs.iterator();

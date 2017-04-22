@@ -1,0 +1,33 @@
+package Map;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class MapDemo {
+
+	public static void main(String[] args) {
+		
+		Map<Integer,String> map = new HashMap<Integer,String>();
+		method(map);
+		
+	}
+	public static void method(Map<Integer,String> map) {
+		//Ìí¼Ó
+		System.out.println(map.put(8, "wangcai"));//null
+		System.out.println(map.put(8, "xiaoqiang"));//wangcai
+		map.put(2, "zhangsan");
+		map.put(7, "zhaosi");
+		
+		
+		//É¾³ý
+//		System.out.println("remove:" + map.remove(2));//remove:zhangsan
+		
+		//ÅÐ¶Ï
+//		System.out.println("containskey:" + map.containsKey(7));//containskey:true
+		
+		//»ñÈ¡
+//		System.out.println("get:" + map.get(7));//get:zhaosi
+		System.out.println(map.containsValue("zhaosi"));
+		System.out.println(map);
+	}
+}

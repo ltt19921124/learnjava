@@ -1,0 +1,12 @@
+package generic;
+
+public class DuoTaiDemo {
+
+	public static void main(String[] args) {
+		
+		Fu f = new Zi();
+		f.show();
+//		System.out.println(f.num);//3
+	}
+
+}

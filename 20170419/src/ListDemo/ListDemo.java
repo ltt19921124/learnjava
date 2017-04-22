@@ -6,12 +6,12 @@ import java.util.List;
 public final class ListDemo {
 
 	public static void main(String[] args) {
-		List list = new ArrayList();
+		List<String> list = new ArrayList<String>();
 		show(list);
 
 	}
 
-	public static void show(List list) {
+	public static void show(List<String> list) {
 		//Ìí¼ÓÔªËØ
 		list.add("abc1");
 		list.add("abc2");
