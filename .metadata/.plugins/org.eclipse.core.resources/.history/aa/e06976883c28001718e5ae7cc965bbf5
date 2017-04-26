@@ -1,0 +1,17 @@
+package IO;
+
+import java.io.FileWriter;
+import java.io.IOException;
+
+public class FileWriterDemo {
+
+	public static void main(String[] args) throws IOException {
+		//´´½¨
+		
+		FileWriter fw = new FileWriter("demo.txt");
+		fw.write("abcde");
+		fw.close();
+		
+	}
+
+}

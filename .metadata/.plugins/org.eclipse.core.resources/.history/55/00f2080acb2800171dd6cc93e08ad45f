@@ -1,0 +1,25 @@
+package IO;
+
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+
+public class CopyTextDemo {
+
+	public static void main(String[] args) throws IOException {
+		
+		
+		/**
+		 *
+		 *读取数据
+		 *字符流
+		 *
+		 */
+		
+		//1,读取一个已有的文本文件，使用字符流读取，
+		FileReader fr = new FileReader("IO流2.txt");
+		//2,
+		
+	}
+
+}

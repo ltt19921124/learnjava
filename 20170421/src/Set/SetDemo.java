@@ -2,6 +2,7 @@ package Set;
 
 import java.util.HashSet;
 import java.util.Iterator;
+import java.util.LinkedHashSet;
 
 public class SetDemo {
 
@@ -13,7 +14,10 @@ public class SetDemo {
 		 *  --|--HashMap:
 		 * 
 		 * */
-		HashSet hs = new HashSet();
+		LinkedHashSet<String> h = new LinkedHashSet<String>();
+		h.add("saa");
+		
+		HashSet<String> hs = new HashSet<String>();
 		
 		hs.add("haha");//无序的，元素不重复
 		hs.add("xixi");
@@ -21,7 +25,7 @@ public class SetDemo {
 		hs.add("hehe");
 		hs.add("hehe");
 		
-		Iterator it = hs.iterator();
+		Iterator<String> it = hs.iterator();
 		
 		while(it.hasNext()) {
 			System.out.println(it.next());
