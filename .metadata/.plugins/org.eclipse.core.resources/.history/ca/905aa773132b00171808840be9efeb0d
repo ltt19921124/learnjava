@@ -1,0 +1,37 @@
+package Static;
+
+import java.util.Stack;
+
+import com.sun.corba.se.impl.orbutil.graph.Node;
+
+class BinaryTree {
+	protected Node root;
+	
+	public BinaryTree(Node root) {
+		this.root = root;
+	}
+	
+	public Node getRoot() {
+		return root;
+	}
+	
+	public static Node init(){
+		Node a = new Node('A');
+		Node a = new Node('B',null,a);
+		Node a = new Node('C');
+		Node a = new Node('D',b,c);
+		Node a = new Node('E');
+		Node a = new Node('F',e,null);
+		Node a = new Node('G',nul,f);
+		Node h = new Node('H',d,g);
+		return h;
+	}
+}
+
+class Binary {
+
+	public static void main(String[] args) {
+
+	}
+
+}

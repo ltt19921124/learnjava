@@ -1,0 +1,18 @@
+package Vector;
+
+import java.util.Vector;
+
+public class VectorDemo_1 {
+
+	public static void main(String[] args) {
+		
+		Vector v = new Vector();
+		
+		v.add("abc1");
+		v.add("abc2");
+		v.add("abc3");
+		v.add("abc4");
+		
+	}
+
+}

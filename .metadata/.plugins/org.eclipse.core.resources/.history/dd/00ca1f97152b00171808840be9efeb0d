@@ -1,0 +1,51 @@
+package Static;
+
+import java.util.Stack;
+
+class BinTree {
+	private char date;
+	private BinTree lchild;
+	private BinTree rchild;
+	
+	public BinTree(char c) {
+		date = c;
+	}
+	
+	//œ»–Ú±È¿˙
+	public static void preOrder(BinTree t) {
+		if (t == null) {
+			return;
+		}
+		System.out.println(t.date);
+		preOrder(t.lchild);
+		preOrder(t.rchild);
+	}
+
+
+
+
+
+	public static void main(String[] args) {
+		
+		BinTree b1 = new BinTree('a');
+		BinTree b2 = new BinTree('b');
+		BinTree b3 = new BinTree('c');
+		BinTree b4 = new BinTree('d');
+		BinTree b5 = new BinTree('e');
+		
+		b1.lchild = b2;
+		b1.rchild = b3;
+		b2.lchild = b4;
+		b2.rchild = b5;
+		
+		BinTree.preOrder(b1);
+	}
+	
+
+}
+
+
+
+
+
+

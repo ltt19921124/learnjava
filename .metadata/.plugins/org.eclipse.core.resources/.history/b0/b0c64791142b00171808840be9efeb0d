@@ -1,0 +1,14 @@
+package Static;
+
+import java.util.Stack;
+
+
+
+
+class Binary {
+
+	public static void main(String[] args) {
+
+	}
+
+}

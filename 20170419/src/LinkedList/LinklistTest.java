@@ -2,22 +2,7 @@ package LinkedList;
 
 import java.util.LinkedList;
 
-class DuiLie {
-	private LinkedList link;
-	
-	DuiLie(){
-		link = new LinkedList();
-	}
-	
-	public void myAdd(Object obj){
-		link.addLast(obj);
-	}
-	
-	public Object myGet(){
-		return link.removeFirst();
-	}
-	
-}
+
 
 
 public class LinklistTest {
@@ -35,9 +20,20 @@ public class LinklistTest {
 		 * 
 		 * 
 		 * */
+		DuiLie dl = new DuiLie();
 		
+		dl.myAdd("abc1");
+		dl.myAdd("abc2");
+		dl.myAdd("abc3");
+		dl.myAdd("abc4");
 		
+		while(!dl.isNull()) {
+			System.out.println(dl.myGet());
+		}
 		
 	}
 
 }
+
+
+

@@ -1,0 +1,27 @@
+package Static;
+
+import java.util.Stack;
+
+class BinaryTree {
+	protected Node root;
+	
+	public BinaryTree(Node roto) {
+		this.root = root;
+	}
+	
+	public Node getRoot() {
+		return root;
+	}
+	
+	public static Node init(){
+		Node a = new Node('A');
+	}
+}
+
+class Binary {
+
+	public static void main(String[] args) {
+
+	}
+
+}
