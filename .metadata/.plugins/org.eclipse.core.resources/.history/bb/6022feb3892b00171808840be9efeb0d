@@ -1,0 +1,22 @@
+package newFeatures;
+
+class Test implements Formula{
+	
+	@Override
+	public double calculate(int a) {
+		
+		return 0;
+	}
+
+	public static void main(String[] args) {
+		
+		Test ts = new Test();
+		
+		ts.calculate(100);
+		ts.sqrt(16);
+		
+	}
+
+	
+	
+}

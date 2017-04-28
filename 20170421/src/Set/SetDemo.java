@@ -19,7 +19,8 @@ public class SetDemo {
 		
 		HashSet<String> hs = new HashSet<String>();
 		
-		
+		String str = "";
+		str.hashCode();
 		
 		hs.add("haha");//无序的，元素不重复
 		hs.add("xixi");

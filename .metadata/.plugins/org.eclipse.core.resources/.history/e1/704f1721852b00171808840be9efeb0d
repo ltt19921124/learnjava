@@ -1,0 +1,21 @@
+package newFeatures;
+
+interface Formula {
+	
+	double calculate(int a);
+	
+	default double sqrt(int a){
+		return Math.sqrt(a);
+	}
+}
+
+class Test implements Formula{
+	public static void main(String[] args) {
+		Formula formula = new Formula() {
+			
+			public double caiculate(int a) {
+				return sqrt(a*100);
+			}
+		}
+	};
+}

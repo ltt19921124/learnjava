@@ -2,12 +2,14 @@ package Collection;
 
 import java.util.ArrayList;
 import java.util.Collection;
+import java.util.ListIterator;
 
 public class CollectionDemo {
 
 	public static void main(String[] args) {
 		Collection coll = new ArrayList();
 		
+		ListIterator it = (ListIterator) new ArrayList();
 //		show(coll);
 		Collection c1 = new ArrayList();
 		Collection c2 = new ArrayList();
