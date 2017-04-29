@@ -15,6 +15,8 @@ class Test implements Formula{
 		System.out.println(ts.calculate(100));
 		System.out.println(ts.sqrt(16));
 		
+		
+		
 	}
 
 	

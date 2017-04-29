@@ -8260,3 +8260,67 @@
 2017-04-26 12:53:46,955 - org.apache.httpcomponents.httpcore - 4.3.3.v201411290715
 2017-04-26 12:53:46,969 - org.eclipse.userstorage - 1.0.1.v20170201-1648
 2017-04-26 12:53:46,981 - org.eclipse.userstorage.ui - 1.0.1.v20170201-1648
+2017-04-29 15:25:26,877 - os.name - Windows 10
+2017-04-29 15:25:26,892 - os.arch - amd64
+2017-04-29 15:25:26,892 - os.version - 10.0
+2017-04-29 15:25:26,892 - java.version - 1.8.0_131
+2017-04-29 15:25:26,892 - java.vendor - Oracle Corporation
+2017-04-29 15:25:26,892 - java.vendor.url - http://java.oracle.com/
+2017-04-29 15:25:26,892 - java.home - G:\jdk_131\jre
+2017-04-29 15:25:26,892 - java.vm.specification.name - Java Virtual Machine Specification
+2017-04-29 15:25:26,892 - java.vm.specification.vendor - Oracle Corporation
+2017-04-29 15:25:26,892 - java.vm.specification.version - 1.8
+2017-04-29 15:25:26,892 - java.class.path - G:\eclipse0130\eclipse\\plugins/org.eclipse.equinox.launcher_1.3.201.v20161025-1711.jar
+2017-04-29 15:25:26,892 - java.library.path - G:\eclipse0130\eclipse;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;G:/jdk_131/bin/../jre/bin/server;G:/jdk_131/bin/../jre/bin;G:/jdk_131/bin/../jre/lib/amd64;G:\jdk_131\bin;C:\Program Files\Java\jdk1.8.0_121\bin;C:\Program Files (x86)\SepanderSoft;G:\SepanderSoft;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;E:\Android\sdk\platform-tools;C:\Program Files\Microsoft\Web Platform Installer\;C:\Users\Tian Lu\AppData\Local\GitHub\PortableGit_d7effa1a4a322478cd29c826b52a0c118ad3db11\cmd;C:\Program Files (x86)\Microsoft SDKs\Azure\CLI\wbin;C:\Program Files\Microsoft Service Fabric\bin\Fabric\Fabric.Code;C:\Program Files\Microsoft SDKs\Service Fabric\Tools\ServiceFabricLocalClusterManager;C:\Program Files\dotnet\;C:\Users\Tian Lu\Downloads\sqlite-snapshot-201703062044\sqlite-snapshot-201703062044;C:\Program Files\Git\cmd;E:\Android\sdk\tools;J:\shua;C:\Program Files\MySQL\MySQL Server 5.7\bin;C:\Users\Tian Lu\Anaconda3;C:\Users\Tian Lu\Anaconda3\Scripts;C:\Users\Tian Lu\Anaconda3\Library\bin;C:\Users\Tian Lu\AppData\Local\Microsoft\WindowsApps;G:\vscode\Microsoft VS Code\bin;C:\Users\Tian Lu\AppData\Local\atom\bin;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;;C:\Users\Tian Lu\Desktop;;.
+2017-04-29 15:25:26,893 - --------------------------------------
+2017-04-29 15:25:26,893 - ## Eclipse Plug-ins Log Information ##
+2017-04-29 15:25:26,899 - --------------------------------------
+2017-04-29 15:25:27,528 - javax.el - 2.2.0.v201303151357
+2017-04-29 15:25:27,599 - javax.servlet - 3.1.0.v201410161800
+2017-04-29 15:25:27,618 - javax.servlet.jsp - 2.2.0.v201112011158
+2017-04-29 15:25:27,632 - com.sun.el - 2.2.0.v201303151357
+2017-04-29 15:25:27,633 - org.apache.commons.logging - 1.1.1.v201101211721
+2017-04-29 15:25:27,647 - org.apache.jasper.glassfish - 2.2.2.v201501141630
+2017-04-29 15:25:27,705 - org.apache.lucene.analysis - 3.5.0.v20120725-1805
+2017-04-29 15:25:27,756 - org.apache.lucene.core - 3.5.0.v20120725-1805
+2017-04-29 15:25:28,400 - org.eclipse.equinox.http.jetty - 3.3.0.v20160324-1850
+2017-04-29 15:25:29,155 - org.eclipse.equinox.http.registry - 1.1.400.v20150715-1528
+2017-04-29 15:25:29,172 - org.eclipse.equinox.http.servlet - 1.3.1.v20160808-1329
+2017-04-29 15:25:29,822 - org.eclipse.equinox.jsp.jasper - 1.0.500.v20150119-1358
+2017-04-29 15:25:30,236 - org.eclipse.equinox.jsp.jasper.registry - 1.0.300.v20130327-1442
+2017-04-29 15:25:30,305 - org.eclipse.help.base - 4.1.2.v20170301-0400
+2017-04-29 15:25:30,307 - org.eclipse.help.ui - 4.0.200.v20160510-0758
+2017-04-29 15:25:30,787 - org.eclipse.help.webapp - 3.8.0.v20160504-0839
+2017-04-29 15:25:31,262 - org.eclipse.jetty.continuation - 9.3.9.v20160517
+2017-04-29 15:25:31,299 - org.eclipse.jetty.http - 9.3.9.v20160517
+2017-04-29 15:25:31,371 - org.eclipse.jetty.io - 9.3.9.v20160517
+2017-04-29 15:25:31,554 - org.eclipse.jetty.security - 9.3.9.v20160517
+2017-04-29 15:25:31,724 - org.eclipse.jetty.server - 9.3.9.v20160517
+2017-04-29 15:25:31,931 - org.eclipse.jetty.servlet - 9.3.9.v20160517
+2017-04-29 15:25:32,007 - org.eclipse.jetty.util - 9.3.9.v20160517
+2017-04-29 15:25:32,008 - org.eclipse.core.net - 1.3.0.v20160418-1534
+2017-04-29 15:25:32,533 - org.eclipse.equinox.security - 1.2.200.v20150715-1528
+2017-04-29 15:25:32,693 - org.eclipse.mylyn.bugzilla.core - 3.21.0.v20160909-1813
+2017-04-29 15:25:32,699 - org.eclipse.mylyn.bugzilla.ui - 3.21.0.v20160909-1813
+2017-04-29 15:25:32,798 - org.eclipse.andmore.hierarchyviewer - 0.5.0.201605181018
+2017-04-29 15:25:33,137 - org.eclipse.sequoyah.device.backward - 2.1.0.N20120718-0509
+2017-04-29 15:25:33,152 - org.eclipse.sequoyah.device.framework - 2.1.0.N20120718-0509
+2017-04-29 15:25:33,154 - org.eclipse.sequoyah.device.framework.ui - 2.1.0.N20120718-0509
+2017-04-29 15:25:33,690 - org.eclipse.sequoyah.device.service.start - 2.1.0.N20120718-0509
+2017-04-29 15:25:34,011 - org.eclipse.sequoyah.device.service.stop - 2.1.0.N20120718-0509
+2017-04-29 15:25:34,652 - org.eclipse.sequoyah.device.framework.wizard - 2.1.0.N20120718-0509
+2017-04-29 15:25:34,678 - org.eclipse.buildship.core - 1.0.21.v20161010-1640
+2017-04-29 15:25:34,679 - org.eclipse.buildship.ui - 1.0.21.v20161010-1640
+2017-04-29 15:25:34,962 - org.eclipse.buildship.branding - 1.0.21.v20161010-1640
+2017-04-29 15:25:35,248 - org.eclipse.buildship.stsmigration - 1.0.21.v20161010-1640
+2017-04-29 15:25:35,344 - org.eclipse.egit.core - 4.6.1.201703071140-r
+2017-04-29 15:25:35,354 - org.eclipse.egit.ui - 4.6.1.201703071140-r
+2017-04-29 15:25:35,636 - org.eclipse.egit - 4.6.1.201703071140-r
+2017-04-29 15:25:35,639 - org.eclipse.egit.doc - 4.6.1.201703071140-r
+2017-04-29 15:25:35,659 - org.eclipse.mylyn.tasks.core - 3.21.0.v20160914-0252
+2017-04-29 15:25:36,366 - org.eclipse.mylyn.tasks.index.core - 3.21.0.v20160630-2019
+2017-04-29 15:25:37,578 - org.eclipse.mylyn.tasks.index.ui - 3.21.0.v20160630-2019
+2017-04-29 15:25:37,580 - org.eclipse.mylyn.tasks.search - 3.21.0.v20160630-2019
+2017-04-29 15:25:37,585 - org.eclipse.mylyn.tasks.ui - 3.21.0.v20160913-2131
+2017-04-29 15:25:39,485 - org.eclipse.aether.maven - 3.1.0.v20140706-2237
+2017-04-29 15:25:39,753 - org.eclipse.gef - 3.11.0.201606061308

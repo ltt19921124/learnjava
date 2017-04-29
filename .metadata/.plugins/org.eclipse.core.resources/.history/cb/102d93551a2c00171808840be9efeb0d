@@ -1,0 +1,39 @@
+package newFeatures;
+
+/*
+ * 单例设计模式
+ * 
+ * 
+ */
+
+
+class Single{
+	//s是single类的成员变量
+	
+	static Single s = new Single();
+	private Single(){
+		
+	}
+	public static Single getInstance(){
+		return s;
+	}
+	
+}
+
+public class SingleDemo {
+
+	public static void main(String[] args) {
+		
+//		Single ss = Single.getInstance();
+		//Single.s
+		Single ss = Single.s;
+		
+	}
+
+}
+
+
+
+
+
+

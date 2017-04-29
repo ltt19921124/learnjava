@@ -28,6 +28,9 @@ public class Demo {
 		 * jdk 1.7新特性
 		 * 1，二进制字面量
 		 * 
+		 * 2，数字字面量可以出现下划线
+		 * 
+		 * 3，
 		 */
 		byte b = 0b00101;
 		System.out.println(b);
