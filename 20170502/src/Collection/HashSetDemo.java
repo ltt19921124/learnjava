@@ -2,12 +2,13 @@ package Collection;
 
 import java.util.HashSet;
 import java.util.Iterator;
+import java.util.LinkedHashSet;
 
 public class HashSetDemo {
 
 	public static void main(String[] args) {
 		
-		HashSet hs = new HashSet();
+		HashSet hs = new LinkedHashSet();
 		
 		
 		hs.add("haha");
