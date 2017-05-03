@@ -1,0 +1,25 @@
+package Collection;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class ListDemo {
+
+	public static void main(String[] args) {
+		
+		List list = new ArrayList();
+		show(list);
+	}
+
+	public static void show(List list) {
+		
+		
+		//Ìí¼ÓÔªËØ
+		list.add("abc1");
+		list.add("abc2");
+		list.add("abc3");
+		System.out.println(list);
+		
+	}
+
+}

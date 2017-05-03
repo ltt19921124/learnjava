@@ -1,9 +1,0 @@
-package ListDemo;
-
-public final class ListDemo {
-
-	public static void main(String[] args) {
-
-	}
-
-}

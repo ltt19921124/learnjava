@@ -7,6 +7,4 @@ interface Formula {
 	default double sqrt(int a){
 		return Math.sqrt(a);
 	}
-	
-	
 }

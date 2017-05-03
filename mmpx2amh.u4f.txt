@@ -1,0 +1,128 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#	modified:   .metadata/.log
+#	modified:   .metadata/.plugins/org.eclipse.andmore.android.logger/environment.log
+#	new file:   .metadata/.plugins/org.eclipse.core.resources/.history/10/d0b3b24eb02c00171269a51e0e97430b
+#	new file:   .metadata/.plugins/org.eclipse.core.resources/.history/1a/30cfde9bb62c00171269a51e0e97430b
+#	new file:   .metadata/.plugins/org.eclipse.core.resources/.history/27/b02d94b9192c00171808840be9efeb0d
+#	new file:   .metadata/.plugins/org.eclipse.core.resources/.history/33/a0c36445af2c00171269a51e0e97430b
+#	new file:   .metadata/.plugins/org.eclipse.core.resources/.history/3d/a05df154b02c00171269a51e0e97430b
+#	new file:   .metadata/.plugins/org.eclipse.core.resources/.history/55/509b30b5af2c00171269a51e0e97430b
+#	new file:   .metadata/.plugins/org.eclipse.core.resources/.history/5c/501f019c292c00171808840be9efeb0d
+#	new file:   .metadata/.plugins/org.eclipse.core.resources/.history/65/d021e251b02c00171269a51e0e97430b
+#	new file:   .metadata/.plugins/org.eclipse.core.resources/.history/6a/9089d4b3b62c00171269a51e0e97430b
+#	new file:   .metadata/.plugins/org.eclipse.core.resources/.history/78/206d8a9f292c00171808840be9efeb0d
+#	new file:   .metadata/.plugins/org.eclipse.core.resources/.history/7e/2046dc4cb02c00171269a51e0e97430b
+#	new file:   .metadata/.plugins/org.eclipse.core.resources/.history/83/a0495eb0292c00171808840be9efeb0d
+#	new file:   .metadata/.plugins/org.eclipse.core.resources/.history/89/b0908e9e182c00171808840be9efeb0d
+#	new file:   .metadata/.plugins/org.eclipse.core.resources/.history/8b/c054e47c1a2c00171808840be9efeb0d
+#	new file:   .metadata/.plugins/org.eclipse.core.resources/.history/94/2050157e192c00171808840be9efeb0d
+#	new file:   .metadata/.plugins/org.eclipse.core.resources/.history/95/b02b1f05ae2c00171269a51e0e97430b
+#	new file:   .metadata/.plugins/org.eclipse.core.resources/.history/98/402d084cb02c00171269a51e0e97430b
+#	new file:   .metadata/.plugins/org.eclipse.core.resources/.history/9f/409ecf46af2c00171269a51e0e97430b
+#	new file:   .metadata/.plugins/org.eclipse.core.resources/.history/a/a054f929192c00171808840be9efeb0d
+#	new file:   .metadata/.plugins/org.eclipse.core.resources/.history/a8/70db6ed1182c00171808840be9efeb0d
+#	new file:   .metadata/.plugins/org.eclipse.core.resources/.history/b0/905e9b1f192c00171808840be9efeb0d
+#	new file:   .metadata/.plugins/org.eclipse.core.resources/.history/c0/70b4e477372c00171808840be9efeb0d
+#	new file:   .metadata/.plugins/org.eclipse.core.resources/.history/cb/102d93551a2c00171808840be9efeb0d
+#	new file:   .metadata/.plugins/org.eclipse.core.resources/.history/ce/d050f6a0372c00171808840be9efeb0d
+#	new file:   .metadata/.plugins/org.eclipse.core.resources/.history/f1/403d309c372c00171808840be9efeb0d
+#	modified:   .metadata/.plugins/org.eclipse.core.resources/.projects/20170412/.markers.snap
+#	modified:   .metadata/.plugins/org.eclipse.core.resources/.projects/20170412/.syncinfo.snap
+#	modified:   .metadata/.plugins/org.eclipse.core.resources/.projects/20170413/.markers.snap
+#	modified:   .metadata/.plugins/org.eclipse.core.resources/.projects/20170413/.syncinfo.snap
+#	modified:   .metadata/.plugins/org.eclipse.core.resources/.projects/20170413a/.markers.snap
+#	modified:   .metadata/.plugins/org.eclipse.core.resources/.projects/20170413a/.syncinfo.snap
+#	modified:   .metadata/.plugins/org.eclipse.core.resources/.projects/20170417/.markers.snap
+#	modified:   .metadata/.plugins/org.eclipse.core.resources/.projects/20170417/.syncinfo.snap
+#	modified:   .metadata/.plugins/org.eclipse.core.resources/.projects/20170419/.markers.snap
+#	modified:   .metadata/.plugins/org.eclipse.core.resources/.projects/20170419/.syncinfo.snap
+#	modified:   .metadata/.plugins/org.eclipse.core.resources/.projects/20170421/.markers.snap
+#	modified:   .metadata/.plugins/org.eclipse.core.resources/.projects/20170421/.syncinfo.snap
+#	modified:   .metadata/.plugins/org.eclipse.core.resources/.projects/20170422/.markers.snap
+#	modified:   .metadata/.plugins/org.eclipse.core.resources/.projects/20170422/.syncinfo.snap
+#	modified:   .metadata/.plugins/org.eclipse.core.resources/.projects/20170423/.markers.snap
+#	modified:   .metadata/.plugins/org.eclipse.core.resources/.projects/20170423/.syncinfo.snap
+#	modified:   .metadata/.plugins/org.eclipse.core.resources/.projects/20170427/.markers.snap
+#	modified:   .metadata/.plugins/org.eclipse.core.resources/.projects/20170427/.syncinfo.snap
+#	new file:   .metadata/.plugins/org.eclipse.core.resources/.projects/20170429/.indexes/e4/be/history.index
+#	new file:   .metadata/.plugins/org.eclipse.core.resources/.projects/20170429/.indexes/properties.index
+#	new file:   .metadata/.plugins/org.eclipse.core.resources/.projects/20170429/.markers.snap
+#	new file:   .metadata/.plugins/org.eclipse.core.resources/.projects/20170429/.syncinfo.snap
+#	new file:   .metadata/.plugins/org.eclipse.core.resources/.projects/20170429/org.eclipse.egit.core/GitProjectData.properties
+#	modified:   .metadata/.plugins/org.eclipse.core.resources/.projects/jdk1.7_newFeatures/.indexes/e4/fd/history.index
+#	modified:   .metadata/.plugins/org.eclipse.core.resources/.projects/jdk1.7_newFeatures/.markers.snap
+#	modified:   .metadata/.plugins/org.eclipse.core.resources/.projects/jdk1.7_newFeatures/.syncinfo.snap
+#	modified:   .metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap
+#	modified:   .metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources
+#	modified:   .metadata/.plugins/org.eclipse.core.resources/10.snap
+#	modified:   .metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
+#	deleted:    .metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_2.fdx
+#	deleted:    .metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_2.frq
+#	deleted:    .metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_2.nrm
+#	deleted:    .metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_2.prx
+#	deleted:    .metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_2.tii
+#	renamed:    .metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_2.fdt -> .metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_3.fdt
+#	new file:   .metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_3.fdx
+#	renamed:    .metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_2.fnm -> .metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_3.fnm
+#	new file:   .metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_3.frq
+#	new file:   .metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_3.nrm
+#	new file:   .metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_3.prx
+#	new file:   .metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_3.tii
+#	renamed:    .metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_2.tis -> .metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_3.tis
+#	modified:   .metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/segments.gen
+#	renamed:    .metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/segments_3 -> .metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/segments_4
+#	modified:   .metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json
+#	new file:   .metadata/.plugins/org.eclipse.jdt.core/2701102740.index
+#	modified:   .metadata/.plugins/org.eclipse.jdt.core/936251743.index
+#	modified:   .metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt
+#	modified:   .metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat
+#	modified:   .metadata/.plugins/org.eclipse.jdt.ui/jdt-images/0.png
+#	deleted:    .metadata/.plugins/org.eclipse.jdt.ui/jdt-images/1.png
+#	deleted:    .metadata/.plugins/org.eclipse.jdt.ui/jdt-images/10.png
+#	deleted:    .metadata/.plugins/org.eclipse.jdt.ui/jdt-images/11.png
+#	deleted:    .metadata/.plugins/org.eclipse.jdt.ui/jdt-images/12.png
+#	deleted:    .metadata/.plugins/org.eclipse.jdt.ui/jdt-images/13.png
+#	deleted:    .metadata/.plugins/org.eclipse.jdt.ui/jdt-images/14.png
+#	deleted:    .metadata/.plugins/org.eclipse.jdt.ui/jdt-images/15.png
+#	deleted:    .metadata/.plugins/org.eclipse.jdt.ui/jdt-images/16.png
+#	deleted:    .metadata/.plugins/org.eclipse.jdt.ui/jdt-images/17.png
+#	deleted:    .metadata/.plugins/org.eclipse.jdt.ui/jdt-images/18.png
+#	deleted:    .metadata/.plugins/org.eclipse.jdt.ui/jdt-images/19.png
+#	deleted:    .metadata/.plugins/org.eclipse.jdt.ui/jdt-images/2.png
+#	deleted:    .metadata/.plugins/org.eclipse.jdt.ui/jdt-images/3.png
+#	deleted:    .metadata/.plugins/org.eclipse.jdt.ui/jdt-images/4.png
+#	deleted:    .metadata/.plugins/org.eclipse.jdt.ui/jdt-images/5.png
+#	deleted:    .metadata/.plugins/org.eclipse.jdt.ui/jdt-images/6.png
+#	deleted:    .metadata/.plugins/org.eclipse.jdt.ui/jdt-images/7.png
+#	deleted:    .metadata/.plugins/org.eclipse.jdt.ui/jdt-images/8.png
+#	deleted:    .metadata/.plugins/org.eclipse.jdt.ui/jdt-images/9.png
+#	modified:   .metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log
+#	modified:   .metadata/version.ini
+#	renamed:    .recommenders/index/http___download_eclipse_org_recommenders_models_neon_/_d.fdt -> .recommenders/index/http___download_eclipse_org_recommenders_models_neon_/_e.fdt
+#	renamed:    .recommenders/index/http___download_eclipse_org_recommenders_models_neon_/_d.fdx -> .recommenders/index/http___download_eclipse_org_recommenders_models_neon_/_e.fdx
+#	renamed:    .recommenders/index/http___download_eclipse_org_recommenders_models_neon_/_d.fnm -> .recommenders/index/http___download_eclipse_org_recommenders_models_neon_/_e.fnm
+#	renamed:    .recommenders/index/http___download_eclipse_org_recommenders_models_neon_/_d.frq -> .recommenders/index/http___download_eclipse_org_recommenders_models_neon_/_e.frq
+#	renamed:    .recommenders/index/http___download_eclipse_org_recommenders_models_neon_/_d.nrm -> .recommenders/index/http___download_eclipse_org_recommenders_models_neon_/_e.nrm
+#	renamed:    .recommenders/index/http___download_eclipse_org_recommenders_models_neon_/_d.prx -> .recommenders/index/http___download_eclipse_org_recommenders_models_neon_/_e.prx
+#	renamed:    .recommenders/index/http___download_eclipse_org_recommenders_models_neon_/_d.tii -> .recommenders/index/http___download_eclipse_org_recommenders_models_neon_/_e.tii
+#	renamed:    .recommenders/index/http___download_eclipse_org_recommenders_models_neon_/_d.tis -> .recommenders/index/http___download_eclipse_org_recommenders_models_neon_/_e.tis
+#	modified:   .recommenders/index/http___download_eclipse_org_recommenders_models_neon_/segments.gen
+#	renamed:    .recommenders/index/http___download_eclipse_org_recommenders_models_neon_/segments_e -> .recommenders/index/http___download_eclipse_org_recommenders_models_neon_/segments_f
+#	new file:   20170429/.classpath
+#	new file:   20170429/.gitignore
+#	new file:   20170429/.project
+#	new file:   20170429/src/Collection/CollectionDemo.java
+#	modified:   jdk1.7_newFeatures/src/newFeatures/Demo.java
+#	modified:   jdk1.7_newFeatures/src/newFeatures/Formula.java
+#	new file:   jdk1.7_newFeatures/src/newFeatures/SingleDemo.java
+#	modified:   jdk1.7_newFeatures/src/newFeatures/Test.java
+#
+# Changes not staged for commit:
+#	modified:   .metadata/.plugins/org.eclipse.andmore.android.logger/environment.log
+#	modified:   .metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log
+#
+

@@ -29,8 +29,21 @@ public class Demo {
 		 * 1，二进制字面量
 		 * 
 		 * 2，数字字面量可以出现下划线
+		 * 		int a = 10_1000_000;
+		 * 		byte b = 0b0100_1000;
 		 * 
-		 * 3，
+		 * 
+		 * 3，String语句可以用字符串了
+		 * 		switch(str){
+		 * 			
+		 * 
+		 * 		}
+		 * 4，泛型实例的创建可以通过类型推断来简化
+		 * 		
+		 * 
+		 * 
+		 * 7，Catch多个Exceptionrethrow exception改进了类型检测
+		 * 
 		 */
 		byte b = 0b00101;
 		System.out.println(b);

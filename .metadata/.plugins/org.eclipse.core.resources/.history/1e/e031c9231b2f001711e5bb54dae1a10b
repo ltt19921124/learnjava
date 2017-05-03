@@ -1,0 +1,19 @@
+package Collection;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class ListDemo_2 {
+
+	public static void main(String[] args) {
+		
+		List list = new ArrayList();
+		
+		show(list);
+	}
+	
+
+	public static void show(List list) {
+	}
+
+}
