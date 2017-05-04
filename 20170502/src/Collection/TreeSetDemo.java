@@ -7,22 +7,31 @@ public class TreeSetDemo {
 
 	public static void main(String[] args) {
 		
-		//不同步的，对set集合中的元素进行排序，不同步的
 		TreeSet ts = new TreeSet();
 		
-		ts.add("abc");
-		ts.add("zaa");
-		ts.add("aa");
-		ts.add("nba");
-		ts.add("cba");
+		/*
+		 * 以person对象年龄进行从小到大进行排序
+		 * 
+		 * 
+		 */
 		
-		//使用元素的自然顺序排序
+		ts.add(new Person("zhansan",28));
+		ts.add(new Person("wangwu",29));
+		ts.add(new Person("zhaoliu",24));
+		ts.add(new Person("zhousi",28));
 		
-		Iterator it  = ts.iterator();
 		
+		Iterator it = ts.iterator();
 		while(it.hasNext()) {
-			System.out.println(it.next());
+			Person p = (Person) it.next();
+			
+			System.out.println(p.getName() + "..." + p.getAge());
+			
 		}
+		
 	}
 
 }
+
+
+

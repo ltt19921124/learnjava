@@ -1,0 +1,17 @@
+import java.util.Map;
+
+public class MapDemo {
+
+	public static void main(String[] args) {
+		
+		
+	}
+	
+	public static void method(Map<Integer,String> map) {
+		
+		//Ìí¼ÓÔªËØ
+		map.put(8, "wangcai";)
+		
+	}
+
+}
