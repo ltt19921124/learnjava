@@ -1,0 +1,13 @@
+
+public class FileReaderDemo {
+
+	public static void main(String[] args) {
+		
+		
+		//1，创建一个读取字符数据的流对象
+		
+		
+		
+	}
+
+}
