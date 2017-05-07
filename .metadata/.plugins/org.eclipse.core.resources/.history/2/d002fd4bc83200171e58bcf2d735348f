@@ -1,0 +1,21 @@
+
+public class WrapperTest {
+
+	public static void main(String[] args) {
+		
+		String numStr = "20 78 9 -7 88 36 29";
+		
+		System.out.println(numStr);
+		numStr = sortStringNumber(numStr);
+		System.out.println(numStr);
+		
+	}
+
+	public static String sortStringNumber(String numStr) {
+		
+		
+		
+		return null;
+	}
+
+}
