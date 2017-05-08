@@ -1,9 +1,0 @@
-package newFeatures;
-
-public class SingleDemo {
-
-	public static void main(String[] args) {
-
-	}
-
-}
