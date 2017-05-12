@@ -1,0 +1,38 @@
+package Exception;
+
+
+class Demo_1 {
+	
+	public int show(int index) throws ArrayIndexOutOfBoundsException {
+		
+		if(index < 0) {
+			throw new ArrayIndexOutOfBoundsException("Ô½½çÀ²");
+		}
+		int[] arr = new int[3];
+		return arr[index];
+	}
+
+}
+
+
+public class ExceptionDemo5 {
+	
+	public static void main(String[] args) {
+		
+		Demo_1 d = new Demo_1();
+		try{
+			int num = d.show(-3);
+		}
+		catch(ArrayIndexOutOfBoundsException e) {
+			e.toString();
+		}
+		finally{
+			System.out.println("over");
+		}
+		System.out.println("over");
+	}
+}
+
+
+
+

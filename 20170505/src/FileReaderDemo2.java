@@ -14,7 +14,7 @@ public class FileReaderDemo2 {
 		
 		int ch = 0;
 		while((ch=fr.read()) != -1) {
-			System.out.println((char)ch);
+			System.out.print((char)ch);
 		}
 		//用Reader中的read方法读取字符
 //		int ch = fr.read();

@@ -1,0 +1,21 @@
+package Chapter2;
+
+class Movie {
+	String title;
+	String genre;
+	
+	int rating;
+	
+	void playIt() {
+		
+	}
+	
+}
+
+public class MovieTestDrive {
+
+	public static void main(String[] args) {
+
+	}
+
+}
