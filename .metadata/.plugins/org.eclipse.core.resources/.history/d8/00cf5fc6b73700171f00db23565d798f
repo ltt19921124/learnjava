@@ -1,0 +1,16 @@
+package Chapter4;
+
+public class TestTwoDimension {
+
+	public static void main(String[] args) {
+		
+		int[][] a;
+		a = new int[3][];
+		
+		for (int i = 0; i < a.length; i++) {
+			System.out.println(a[i]);
+		}
+		
+	}
+
+}

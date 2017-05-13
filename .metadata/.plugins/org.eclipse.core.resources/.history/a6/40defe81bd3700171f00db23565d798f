@@ -1,0 +1,15 @@
+package Chapter5;
+
+public class ThisInConstructor {
+	
+	public int foo;
+	public ThisInConstructor() {
+		
+	}
+
+	public static void main(String[] args) {
+		
+	
+	}
+
+}

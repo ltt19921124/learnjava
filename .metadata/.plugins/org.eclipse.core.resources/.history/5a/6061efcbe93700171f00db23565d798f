@@ -1,0 +1,12 @@
+package Chapter5;
+
+public class TestMethodLocalVariablle {
+
+	public static void main(String[] args) {
+		
+		int a;
+		System.out.println("方法局部变量a的值为:" + a);
+		
+	}
+
+}

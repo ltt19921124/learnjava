@@ -1,0 +1,16 @@
+package Chapter5;
+
+public class TestVariableOverride {
+	
+	private String name = "ภ๎ธี";
+	private static double price = 78.0;
+
+	public static void main(String[] args) {
+		
+		int price = 65;
+		System.out.println(price);
+		
+		
+	}
+
+}

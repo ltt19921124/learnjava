@@ -1,0 +1,15 @@
+package Chapter5;
+
+public class Dog {
+		
+	public void jump() {
+		System.out.println("正在执行jumpff");
+	}
+	
+	public void run() {
+		Dog d = new Dog();
+		d.jump();
+		System.out.println("正在执行run方法");
+	}
+	
+}

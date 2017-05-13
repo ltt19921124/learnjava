@@ -1,0 +1,9 @@
+package Chapter5;
+
+public class TestScope1 {
+
+	public static void main(String[] args) {
+
+	}
+
+}

@@ -1,0 +1,24 @@
+package Chapter5;
+
+public class TestPerson1 {
+
+	public static void main(String[] args) {
+		
+		System.out.println("person1类的eyeNum类属性值:" + Person1.eyeNum);//person1类的eyeNum类属性值:0
+		//
+		System.out.println(Person1.address);
+		
+		Person1 p = new Person1();
+		System.out.println("p变量的name属性值是:" + p.name + "p对象的eyeNum属性值是:" + p.eyeNum);
+		p.name = "孙悟空";
+		p.eyeNum = 2;
+		System.out.println("p变量的name属性值是:" + p.name + "p对象的eyeNum属性值是:" + p.eyeNum);
+		System.out.println("Person1的eyrNum类属性值:" + Person1.eyeNum);
+		
+		Person1 p2 = new Person1();
+		System.out.println("p2对象的eyeNum类属性:" + p2.eyeNum);
+		
+	}
+	
+
+}

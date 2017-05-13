@@ -1,8 +1,0 @@
-package Collection;
-
-public class Snippet {
-	public static void main(String[] args) {
-		import java.util.Iterator;
-	}
-}
-

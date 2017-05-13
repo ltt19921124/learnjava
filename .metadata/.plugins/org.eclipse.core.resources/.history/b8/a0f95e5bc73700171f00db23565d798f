@@ -1,0 +1,17 @@
+package Chapter5;
+
+public class FeiBoNaQi {
+	
+	public static int fn(int n) {
+		if (n == 0 || n == 1) {
+			return 1;
+		}else {
+			return fn(n-1) + fn(n-2);
+		}
+	}
+
+	public static void main(String[] args) {
+		System.out.println(fn(8));
+	}
+
+}

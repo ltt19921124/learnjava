@@ -1,0 +1,13 @@
+package Chapter3;
+
+public class AutoConversion {
+
+	public static void main(String[] args) {
+		
+		int a = 6;
+		float f = a;
+		
+		
+	}
+
+}
