@@ -1,0 +1,20 @@
+package Chapter5_Extends;
+
+class Fu {
+	
+	void show() {
+		System.out.println("fu show");
+	}
+}
+
+class Zi extends Fu {
+	
+	void show() {
+		System.out.println("zi show");
+	}
+
+	public static void main(String[] args) {
+
+	}
+
+}

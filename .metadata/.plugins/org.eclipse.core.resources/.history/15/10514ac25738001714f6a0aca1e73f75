@@ -1,0 +1,17 @@
+package Chapter5_Extends;
+
+class DuoTaiDemo {
+	
+	int num = 3;
+
+}
+
+class Zi extends DuoTaiDemo {
+	int num = 4;
+	
+	public static void main(String[] args) {
+		
+		Fu f = new Zi();
+		System.out.println(f.num);
+	}
+}

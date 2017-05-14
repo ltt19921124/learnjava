@@ -1,0 +1,30 @@
+package Chapter5_Extends;
+
+/*
+ * 
+ * 注意:多态时，成员变量情况，父类若没有定义调用的成员变量，编译会失败
+ * 运时行，调用引用变量所属的类中是否有调用的成员变量。
+ * 
+ */
+
+class Fu {
+	
+	int num = 5;
+	
+}
+
+class Zi extends Fu {
+	
+	int num = 4;
+
+	public static void main(String[] args) {
+		
+//		Fu f = new Zi();
+//		System.out.println(f.num);
+		
+		Zi z = new Zi();
+		System.out.println(z.num);
+		
+	}
+
+}

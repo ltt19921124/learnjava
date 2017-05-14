@@ -1,0 +1,24 @@
+package Chapter5_Extends;
+
+public class TestConversion {
+
+	public static void main(String[] args) {
+		
+		double d = 13.4;
+		long l = (long) d;
+		
+		System.out.println(l);
+		
+		int i= 5;
+		
+		Object obj = "Hello";
+		
+		String objStr = (String)obj;
+		System.out.println(objStr);
+		
+		
+		Object objPri = new Integr(5);
+		String str = (String)objPri;
+	}
+
+}

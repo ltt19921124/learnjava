@@ -1,0 +1,9 @@
+package Chapter5_Extends;
+
+public class Person {
+
+	public static void main(String[] args) {
+
+	}
+
+}

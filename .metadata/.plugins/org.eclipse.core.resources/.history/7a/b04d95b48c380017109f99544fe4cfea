@@ -1,0 +1,9 @@
+package Chapter6;
+
+public class Primitive2Wrapper {
+
+	public static void main(String[] args) {
+
+	}
+
+}

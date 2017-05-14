@@ -1,0 +1,15 @@
+package Chapter5_Extends;
+
+class Fu {
+	
+	int num = 4;
+	
+}
+
+class DuoTaiDemo {
+
+	public static void main(String[] args) {
+
+	}
+
+}

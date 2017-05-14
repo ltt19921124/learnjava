@@ -20,8 +20,8 @@ public class AutoConversion {
 //		int t = (int)d;
 //		System.out.println(t);
 		
-		double x = 3.2;
-		double b = Math.pow(x, 5);
+		double x = 3.0;
+		double b = Math.pow(x, 2);
 		System.out.println(b);
 		
 	}
