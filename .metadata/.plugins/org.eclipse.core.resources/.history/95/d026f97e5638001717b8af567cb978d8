@@ -1,0 +1,7 @@
+package Chapter5_Extends;
+
+public class AccessSuperProperty {
+	
+	public int a = 5;
+
+}

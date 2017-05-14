@@ -1,0 +1,9 @@
+package Chapter5_Extends;
+
+public class Bird {
+	
+	public void fly() {
+		System.out.println("我在天空自由的飞翔...");
+	}
+
+}
