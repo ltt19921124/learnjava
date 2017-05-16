@@ -1,0 +1,5 @@
+package Chapter6_interface;
+
+public interface interfaceA {
+
+}

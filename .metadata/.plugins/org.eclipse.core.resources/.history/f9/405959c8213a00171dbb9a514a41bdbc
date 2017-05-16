@@ -1,0 +1,9 @@
+package Chapter6_Inner;
+
+public class TestAnonymous {
+
+	public static void main(String[] args) {
+
+	}
+
+}

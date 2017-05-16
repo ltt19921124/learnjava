@@ -1,0 +1,20 @@
+package Chapter6_Inner;
+
+interface Product {
+	
+	public double getPrice();
+	public String getNmae();
+	
+	
+}
+
+public class TestAnonymous {
+	public void test(Product p) {
+		System.out.println("购买了一个" + p.getNmae() + ",花掉了" + p.getPrice());
+	}
+
+	public static void main(String[] args) {
+		System.out.println();
+	}
+
+}

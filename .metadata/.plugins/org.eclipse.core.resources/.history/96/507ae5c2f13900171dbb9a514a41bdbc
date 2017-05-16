@@ -1,0 +1,19 @@
+package Chapter6;
+
+class Person2{
+	private String name;
+	private String idStr;
+	public Person2() {
+		
+	}
+	public Person2() ¡¾
+	
+}
+
+public class OverrideEqualsRight {
+
+	public static void main(String[] args) {
+
+	}
+
+}

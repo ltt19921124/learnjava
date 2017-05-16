@@ -1,0 +1,8 @@
+	
+	equals方法：
+	覆盖equals方法的几个条件：
+	1，自反性
+	2，对称性
+	3，传递性
+	4，一致性
+	5，对任何不是null的x,x.equals(null)一定返回false

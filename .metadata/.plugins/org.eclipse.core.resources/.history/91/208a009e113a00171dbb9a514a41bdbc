@@ -1,0 +1,29 @@
+package Chapter6_interface;
+
+interface Product {
+	int getProduceTime();
+}
+
+public class Printer implements Output,Product{
+
+	public static void main(String[] args) {
+
+	}
+
+	@Override
+	public void out() {
+		
+	}
+
+	@Override
+	public void getData(String msg) {
+		
+	}
+
+	@Override
+	public int getProduceTime() {
+		
+		return 0;
+	}
+
+}

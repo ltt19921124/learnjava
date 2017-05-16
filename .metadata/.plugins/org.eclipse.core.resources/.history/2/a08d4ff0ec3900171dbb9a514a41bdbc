@@ -1,0 +1,23 @@
+package Chapter6;
+
+class Apple {
+	private String color;
+	private double weight;
+	public Apple() {
+		
+	}
+	
+	public Apple(String color,double weight) {
+		this.color = color;
+		this.weight = weight;
+	}
+}
+
+	
+class TestToString {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

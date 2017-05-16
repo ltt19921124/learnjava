@@ -1,0 +1,28 @@
+package Chapter6;
+
+class Person3{
+	private int age;
+	public Person3() {
+		
+	}
+	public Person3(int age) {
+		this.age = age;
+	}
+	public int getAge() {
+		return age;
+	}
+	public void setAge(int age) {
+		this.age = age;
+	}
+	
+	
+}
+
+public class TestFinalReference {
+
+	public static void main(String[] args) {
+		
+		
+	}
+
+}

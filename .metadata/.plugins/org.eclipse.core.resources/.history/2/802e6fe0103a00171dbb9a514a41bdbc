@@ -1,0 +1,13 @@
+package Chapter6_interface;
+
+public class TestInterfaceExtends {
+
+	public static void main(String[] args) {
+		
+		System.out.println(C.PROP_A);//
+		System.out.println(C.PROP_B);//
+		System.out.println(C.PROP_C);//
+
+	}
+
+}

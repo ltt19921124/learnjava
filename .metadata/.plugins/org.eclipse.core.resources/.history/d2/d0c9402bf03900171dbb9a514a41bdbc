@@ -1,0 +1,9 @@
+package Chapter6;
+
+public class OverrideEqualsError {
+
+	public static void main(String[] args) {
+
+	}
+
+}

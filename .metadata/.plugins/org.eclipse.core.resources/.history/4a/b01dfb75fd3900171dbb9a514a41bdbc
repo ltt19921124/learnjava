@@ -1,0 +1,19 @@
+package Chapter6;
+
+public class Triangle extends Shape{
+
+	@Override
+	public double calPerimeter() {
+		
+		return 0;
+	}
+
+	@Override
+	public String getType() {
+		
+		return null;
+	}
+	
+	
+
+}

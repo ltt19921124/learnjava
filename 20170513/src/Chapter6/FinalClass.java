@@ -1,0 +1,13 @@
+package Chapter6;
+
+public final class FinalClass {
+
+}
+
+//代码出错，不能继承final修饰了的类
+
+/*
+class Sub extends FinalClass {
+	
+}
+*/

@@ -1,0 +1,38 @@
+package Chapter6_interface;
+
+interface Product {
+	int getProduceTime();
+}
+
+public class Printer implements Output,Product{
+	private String[] printData = new String[MAX_CACHE_LINE];
+	private int dataNum = 0;
+
+	public static void main(String[] args) {
+
+	}
+
+	@Override
+	public void out() {
+		while (dataNum > 0) {
+			
+			System.out.println("打印机打印" + printData[0]);
+			//把作业队列整体前移以为，并将剩下的作业书减一
+			System.arraycopy(printData,1,printData,0,--dataNum);
+			
+		}
+		
+	}
+
+	@Override
+	public void getData(String msg) {
+		
+	}
+
+	@Override
+	public int getProduceTime() {
+		
+		return 0;
+	}
+
+}

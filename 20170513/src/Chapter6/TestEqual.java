@@ -1,0 +1,19 @@
+package Chapter6;
+
+public class TestEqual {
+
+	public static void main(String[] args) {
+		
+		int it = 65;
+		float f = 65.0f;
+		System.out.println("65和65.0f是否相等？:" + (it == f));//true
+		char c = 'A';
+		System.out.println("65和'A'是否相等?:" + (it == c));
+		String s = new String("hello");
+		String s1 = new String("hello");
+		System.out.println("s和s1是否相等?:" + (s == s1));//flase
+		System.out.println("s是否equals s1?:" + (s.equals(s1)));//true
+		
+	}
+
+}

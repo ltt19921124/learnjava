@@ -1,0 +1,9 @@
+package Chapter6_interface;
+
+public class TestOutputProperty {
+
+	public static void main(String[] args) {
+
+	}
+
+}

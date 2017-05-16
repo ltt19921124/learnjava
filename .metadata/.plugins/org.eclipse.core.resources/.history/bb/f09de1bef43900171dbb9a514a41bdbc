@@ -1,0 +1,40 @@
+package Chapter6;
+
+class SingleTon {
+	private static SingleTon instance;
+	//私有化构造器
+	private SingleTon() {
+		
+	}
+	//定义一个公有的静态方法，用于返回SingleTon对象
+	public static SingleTon getInstance() {
+		if (instance == null) {
+			instance = new SingleTon();
+		}
+		return instance;
+	}
+}
+
+
+public class TestSingleTon {
+
+	public static void main(String[] args) {
+		
+		//创建SingleTon对象不能通过构造器，只能通过getInstance
+		SingleTon s1 = SingleTon.getInstance();
+		SingleTon s2 = SingleTon.getInstance();
+		//将输出true
+		System.out.println(s1 == s2);
+		
+		
+	}
+
+}
+
+
+
+
+
+
+
+

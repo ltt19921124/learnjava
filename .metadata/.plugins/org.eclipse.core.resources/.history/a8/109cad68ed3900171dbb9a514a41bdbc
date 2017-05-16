@@ -1,0 +1,13 @@
+package Chapter6;
+
+public class TestEqual {
+
+	public static void main(String[] args) {
+		
+		int it = 65;
+		float f = 65.0f;
+		System.out.println("65和65.0f是否相等？" + (it == f));
+
+	}
+
+}
