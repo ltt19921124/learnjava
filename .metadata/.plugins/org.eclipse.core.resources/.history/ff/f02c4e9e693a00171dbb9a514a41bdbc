@@ -6,7 +6,6 @@ public class TeachableProgrammer_1 extends Programmer {
 		
 	}
 	public TeachableProgrammer_1(String name){
-		
 		super(name);
 	}
 	private void teach() {
