@@ -1,0 +1,8 @@
+package ClassLoader;
+
+public class MusicPlyer {
+	public void print() {
+		System.out.println();
+	}
+
+}

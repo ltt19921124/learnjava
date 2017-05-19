@@ -1,0 +1,12 @@
+package Chapter7;
+
+import java.util.HashSet;
+import java.util.Set;
+
+public class TestSet {
+	
+	Set books = new HashSet();
+
+	
+
+}

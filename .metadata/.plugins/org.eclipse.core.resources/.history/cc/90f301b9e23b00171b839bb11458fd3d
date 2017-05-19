@@ -1,0 +1,14 @@
+package Chapter7;
+
+public class TestVector {
+	public static void main(String[] args) {
+		
+		Integer a = 127;
+		Integer b = 127;
+		Integer c = 128;
+		Integer d = 128;
+		System.out.println(a == b);//false
+		System.out.println(c == d);//true
+	}
+
+}

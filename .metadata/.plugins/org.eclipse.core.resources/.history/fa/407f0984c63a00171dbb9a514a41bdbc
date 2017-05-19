@@ -1,0 +1,17 @@
+package Chapter7;
+
+import java.util.HashSet;
+import java.util.Set;
+
+public class TestSet {
+
+	public static void main(String[] args) {
+		
+		Set books = new HashSet();
+		books.add("权威指南");
+		boolean result = books.add("权威指南");
+		System.out.println(books);
+		System.out.println(result);
+	}
+
+}

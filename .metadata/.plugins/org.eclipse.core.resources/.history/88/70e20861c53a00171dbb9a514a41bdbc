@@ -1,0 +1,9 @@
+package Chapter7;
+
+public class TestForeach {
+
+	public static void main(String[] args) {
+
+	}
+
+}

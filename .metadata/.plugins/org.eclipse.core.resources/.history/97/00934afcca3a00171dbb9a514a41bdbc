@@ -1,0 +1,18 @@
+package Chapter7;
+
+import java.util.LinkedHashSet;
+
+public class LinkedHahSet {
+
+	public static void main(String[] args) {
+		
+		LinkedHashSet books = new LinkedHashSet();
+		books.add("指南");
+		books.add("实战");
+		books.remove("指南");
+		books.add("指南");
+		System.out.println(books);
+		
+	}
+
+}
