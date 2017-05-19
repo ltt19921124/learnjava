@@ -28,9 +28,8 @@ public class TestVector {
 		//访问第一个元素，但不将其出栈
 		System.out.println(v.peek());//最佳实践
 		System.out.println(v);//[权威指南, 应用实战, 最佳实践]
-		//返回栈的第一个元素，并将该元素"pop"出栈
 		System.out.println(v.pop());//最佳实践
-		System.out.println(v);//[权威指南, 应用实战]
+		System.out.println(v);
 		
 	}
 
