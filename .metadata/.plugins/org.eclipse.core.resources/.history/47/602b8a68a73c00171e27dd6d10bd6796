@@ -1,0 +1,27 @@
+package Chapter7;
+
+import java.util.LinkedList;
+
+public class TestLinkedList {
+
+	public static void main(String[] args) {
+		
+		LinkedList books = new LinkedList();
+		books.offer("指南");
+		books.push("应用实战");
+		books.offerFirst("开发实践");
+		for (int i = 0;i < books.size();i++) {
+			System.out.println(books.get(i));
+		}
+		//访问，但不删除队列的第一个元素
+		System.out.println(books.peekFirst());
+		//访问，但不删除队列的最后一个元素
+		System.out.println(books.peekLast());
+		//采用出栈的方式将第一个元素pop出队列
+		System.out.println(books.pop());
+		//队列的第一个元素将被删除
+		System.out.println(books);
+
+	}
+
+}

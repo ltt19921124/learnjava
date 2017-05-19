@@ -1,0 +1,14 @@
+package Chapter7;
+
+import java.util.HashMap;
+
+public class NullHashMap {
+
+	public static void main(String[] args) {
+		
+		HashMHap hm = new HashMap();
+		//
+
+	}
+
+}

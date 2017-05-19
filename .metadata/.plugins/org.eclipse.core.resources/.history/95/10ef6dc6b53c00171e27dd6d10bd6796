@@ -1,0 +1,19 @@
+package Chapter8;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class ListErr {
+
+	public static void main(String[] args) {
+		
+		List strList = new ArrayList();
+		strList.add("权威指南");
+		strList.add("宝典");
+		strList.add("应用实践");
+		//"不小心"把一个Integer对象放进去了
+		strList.add(5);
+
+	}
+
+}
