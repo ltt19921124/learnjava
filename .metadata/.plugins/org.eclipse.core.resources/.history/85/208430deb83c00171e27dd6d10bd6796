@@ -1,0 +1,9 @@
+package Chapter9;
+
+public class TestScannerKeyBoard {
+
+	public static void main(String[] args) {
+
+	}
+
+}
