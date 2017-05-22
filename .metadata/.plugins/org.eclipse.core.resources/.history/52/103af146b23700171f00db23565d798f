@@ -1,9 +1,0 @@
-package Chapter4;
-
-public class TestForEachError {
-
-	public static void main(String[] args) {
-
-	}
-
-}

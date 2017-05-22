@@ -1,9 +1,0 @@
-package Chapter6;
-
-public class AutoBoxingUnboxing {
-
-	public static void main(String[] args) {
-
-	}
-
-}

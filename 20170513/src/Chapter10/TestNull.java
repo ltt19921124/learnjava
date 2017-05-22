@@ -10,10 +10,11 @@ public class TestNull {
 			System.out.println(d.after(new Date()));
 		}
 		catch (NullPointerException ne) {
-			System.out.println("¿ÕÖ¸ÕëÒì³£");
+			System.out.println("ï¿½ï¿½Ö¸ï¿½ï¿½ï¿½ì³£");
 		}
 		catch (Exception e) {
-			System.out.println("Î´ÖªÒì³£");
+			System.out.println("Î´Öªï¿½ì³£");
+			System.out.println("å¥½");
 		}
 		
 
