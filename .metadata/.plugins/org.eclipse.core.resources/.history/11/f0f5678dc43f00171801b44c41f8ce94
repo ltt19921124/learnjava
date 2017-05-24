@@ -1,0 +1,12 @@
+package IO;
+
+public class FileWriter {
+
+	public static void main(String[] args) {
+		
+		FileWriter fw = new FileWriter("demo.txt");
+		
+
+	}
+
+}

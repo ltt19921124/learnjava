@@ -1,0 +1,9 @@
+package IO;
+
+public class CopyTextBufferedTest {
+
+	public static void main(String[] args) {
+
+	}
+
+}

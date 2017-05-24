@@ -1,0 +1,19 @@
+package IO;
+
+import java.io.FileWriter;
+import java.io.IOException;
+
+public class FileWriterDemo {
+
+	public static void main(String[] args) throws IOException {
+		
+		FileWriter fw = new FileWriter("demo.txt");
+		
+		//数据写入到了临时存储区中
+		fw.write("fhjkll");
+		//关闭流
+		fw.flush();
+		fw.close();
+	}
+
+}

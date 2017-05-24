@@ -1,0 +1,25 @@
+package IO;
+
+public class CopyTextTest {
+	/*
+	 * 思路：
+	 * 1，需要读取源
+	 * 2，将读到的源数据写入到目的地
+	 * 3，既然是操作文本数据，要使用字符流
+	 */
+
+	public static void main(String[] args) {
+		//1,
+		
+		
+		//2,
+		
+		
+		//3,
+		
+		
+		
+		
+	}
+
+}

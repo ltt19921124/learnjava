@@ -1,0 +1,21 @@
+package IO;
+
+import java.io.FileWriter;
+import java.io.IOException;
+
+public class BufferedWriterDemo {
+
+	public static void main(String[] args) throws IOException {
+		
+		FileWriter fw = new FileWriter("buf.txt");
+		
+		//为了提高写入的效率，使用了字符流的缓冲区。
+		
+		
+		fw.write("kk");
+		
+		fw.close();
+
+	}
+
+}

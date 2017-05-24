@@ -1,0 +1,16 @@
+package Chapter16;
+
+public class FirstThread extends Thread{
+
+	public static void main(String[] args) {
+		
+		private int i;
+		public void run() {
+			for ( ; i < 100;i++) {
+				System.out.println(getName() + " " + i);
+			}
+		}
+
+	}
+
+}

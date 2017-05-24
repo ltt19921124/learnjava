@@ -1,0 +1,47 @@
+package IO;
+
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+
+public class BufferedReaderDemo {
+	
+	public static void main(String[] args) throws IOException {
+		
+//		demo(); readLine()//∂¡“ª––
+		FileReader fr = new FileReader("buf.txt");
+		BufferedReader bufw = new BufferedReader(fr);
+		
+		String line1 = bufw.readLine();
+		System.out.println(line1);
+		bufw.close();
+		
+		String line2 = bufw.readLine();
+		System.out.println(line1);
+		bufw.close();
+		
+		String line3 = bufw.readLine();
+		System.out.println(line1);
+		bufw.close();
+		
+		String line4 = bufw.readLine();
+		System.out.println(line1);
+		bufw.close();
+		
+	}
+
+	public static void demo() throws FileNotFoundException, IOException {
+		FileReader fr = new FileReader("buf.txt");
+		
+		char[] buf = new char[1024];
+		
+		int len = 0;
+		while ((len = fr.read(buf)) != -1) {
+			System.out.println(new String(buf,0,len));
+		}
+		
+		fr.close();
+	}
+
+}

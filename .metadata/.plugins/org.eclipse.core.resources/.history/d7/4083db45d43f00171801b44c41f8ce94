@@ -1,0 +1,33 @@
+package IO;
+
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+
+//需求，读取一个文本文件，将读到的字符打印到控制台
+
+public class FileReaderDemo {
+
+	public static void main(String[] args) throws IOException {
+		//1,创建读取字符数据的流对象
+		/*
+		 * 
+		 * 在创建读取流对象时，必须要明确被读取的文件(否则怎么读呢？)，一定要确保文件是存在的
+		 * 用一个读取流关联文件
+		 * 
+		 */
+		FileReader fr = new FileReader("demo.txt");
+		
+		//用reader中的reader方法读取字符
+		int ch = fr.read();
+		System.out.println(ch);
+		
+		int ch2 = fr.read();
+		System.out.println(ch2);
+		
+		
+		
+		
+	}
+
+}

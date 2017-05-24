@@ -1,0 +1,36 @@
+package IO;
+
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+
+
+public class FileReaderDemo2 {
+
+	public static void main(String[] args) throws IOException {
+		
+		FileReader fr = new FileReader("demo.txt");
+		
+		
+		/*
+		 * 使用raed(char[])读取文本文件数据
+		 * 先创建字符数组
+		 *  
+		 */
+		char[] buf = new char[3];
+		
+		
+		int num = fr.read(buf);//将读到的字符存储到数组中
+		System.out.println(num + ":" + new String(buf));
+		
+		int num1 = fr.read(buf);//将读到的字符存储到数组中
+		System.out.println(num1 + ":" + new String(buf));
+		
+		
+		
+		fr.close();
+		
+		
+	}
+
+}

@@ -1,0 +1,57 @@
+package IO;
+
+/*
+ * 装饰着模式：对一组对象的功能进行增强时，就可以使用该模式进行问题的解决
+ * 装饰和继承都有一样的特点
+ * ：
+ * 
+ */
+
+public class PersonDemo {
+
+	public static void main(String[] args) {
+		
+		Person p = new Person();
+//		p.chifan();
+		NewPerson p1 = new NewPerson(p);
+		p1.chifan();
+		
+	}
+
+}
+
+class Person {
+	
+	void chifan() {
+		System.out.println("吃饭");
+	}
+}
+
+//增强person而出现的
+
+class NewPerson {
+	private Person p;
+	
+	NewPerson(Person p) {
+		this.p = p;
+	}
+	
+	public void chifan() {
+		
+		System.out.println("开胃酒");
+		p.chifan();
+		System.out.println("甜点");
+		
+	}
+	
+}
+
+
+
+
+
+
+
+
+
+
